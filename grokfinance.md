@@ -95,3 +95,44 @@ Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y g
 - **@MacroAlf** – Macro cross-asset y política monetaria.
 
 ---
+
+## Miércoles, 28 de octubre de 2026 – 2:33 PM (horario de Buenos Aires)
+
+### Índices (sesión en curso / estado actual)
+Los mercados operan con cautela y en terreno mixto a ligeramente positivo a media tarde (alrededor de las 1:30 PM ET), mientras esperan la decisión de la Fed a las 2 PM ET. El trade de IA sigue dando soporte relativo, pero los yields altos y el alza del petróleo limitan el upside.
+
+- **Dow Jones**: ~52.548 (**+0,32%**)
+- **S&P 500**: ~7.743 (**+0,27%**)
+- **Nasdaq Composite**: ~26.503 (**+0,10%**)
+- **Russell 2000**: ~2.819 (**+0,01%**)
+
+VIX alrededor de 17,3-17,4 (leve baja). El 10-year Treasury yield cerca de 5,03%. Petróleo (WTI) sube más de 3% hacia ~$103.
+
+### Principales movers y sectores destacados
+**Movers destacados de la sesión**:
+- **Ganadores**: Vertiv (VRT) ~+14% (elevó guidance y órdenes fuertes en data centers), Genmab (GMAB) ~+29-30%, Axogen (AXGN) ~+27%, Stellantis (STLA) ~+16%, Wendy's (WEN) ~+15% (rumor de oferta), nombres de memory/AI como Micron (MU) y relacionados con SK Hynix (resultados explosivos overnight).
+- **Perdedores**: Enphase (ENPH) ~-17% (guidance débil y demanda solar blanda), F5 (FFIV) ~-20%, Bicara Therapeutics y otros biotech, algunos financials/tech selectivos.
+
+**Sectores**: Energy lidera con fuerza (impulso del crudo), seguido de Healthcare, Financials y Utilities. Technology y Communication Services más moderados. Industrials y Consumer Discretionary mixtos o levemente negativos. El trade de AI/data centers sigue vigente (Vertiv, semis), mientras energy se beneficia del geopolitics.
+
+### Drivers macroeconómicos y geopolíticos del día y su impacto
+- **Decisión de la Fed (hoy 2 PM ET / 3 PM ART)**: Expectativa casi unánime de hold en el rango 3,75%-4% (~90-93% de probabilidad). Foco en la conferencia de prensa de Kevin Warsh: señales sobre diciembre y el path de tasas. Con inflación todavía elevada (y crudo al alza), mercados pricean alta chance de otra suba hacia fin de año. Impacto: Cautela general; un tono hawkish podría presionar valoraciones y tech, mientras un hold con lenguaje más suave daría alivio temporal.
+- **AI, earnings y tech**: Optimismo residual por el IPO filing de Anthropic y resultados de SK Hynix (profit triple). Después del cierre: Microsoft y Alphabet (clave para capex de data centers/AI). Impacto: Soporte para Nasdaq y semis, pero riesgo de decepción en guía de gasto o márgenes.
+- **Petróleo y geopolítica**: Crudo al alza (WTI ~$103, +3%+) por tensiones renovadas en Medio Oriente (Irán, reportes de posible campaña militar corta de EE.UU. post-midterms, riesgos en Estrecho de Ormuz). Impacto: Presión inflacionaria adicional (complicando el path de la Fed), soporte para energy stocks, headwind para consumer y transporte. Yields altos (~5%) reflejan esto + crecimiento resiliente.
+- **Contexto general**: Mercado en modo "wait and see" antes de Fed y earnings de hyperscalers. Breadth mixta. El crecimiento económico y el boom de AI compensan parcialmente riesgos de inflación y geopolitics, pero la volatilidad podría aumentar post-anuncio.
+
+### Recomendaciones de cuentas en X (Twitter)
+Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
+
+- **@DeItaone** (Walter Bloomberg) – Headlines de mercado en tiempo casi real.
+- **@elerianm** (Mohamed El-Erian) – Macro, política monetaria y geopolítica.
+- **@LizAnnSonders** – Datos, breadth y sentimiento (Charles Schwab).
+- **@KobeissiLetter** – Resumen de noticias y movimientos de mercado.
+- **@zerohedge** – Visión contraria, macro y riesgos.
+- **@LiveSquawk** – Eventos en tiempo real (bancos centrales, datos, geopolítica).
+- **@business** (Bloomberg) y **@WSJMarkets** – Cobertura sólida y confiable.
+- **@charliebilello** – Datos históricos y contexto de mercado.
+- **@MacroAlf** – Macro cross-asset y política monetaria.
+- **@ritholtz** (Barry Ritholtz) – Análisis equilibrado de mercados y economía.
+
+---
