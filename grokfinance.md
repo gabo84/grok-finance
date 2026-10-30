@@ -179,3 +179,53 @@ Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y g
 - **@ritholtz** (Barry Ritholtz) – Análisis equilibrado de mercados y economía.
 
 ---
+
+## Viernes, 30 de octubre de 2026 – 14:33 (horario de Buenos Aires)
+
+### Índices (sesión en curso / estado actual ~1:30 PM ET)
+Los mercados operan en fuerte caída en el último día de octubre, con el Nasdaq liderando las pérdidas en una rotación fuera de tech/AI. El Dow resiste relativamente mejor gracias a defensivos.
+
+- **Dow Jones**: ~51.850 (**-0,94%**)
+- **S&P 500**: ~7.600 (**-1,6%** aprox.)
+- **Nasdaq Composite**: ~25.480 (**-2,7%** aprox.)
+- **Russell 2000**: ~2.810 (**-1,7%**)
+
+VIX en alza. Petróleo (WTI) cerca de $104, Brent ~$113-117. Bitcoin bajo presión tras hack de Binance.
+
+### Principales movers y sectores destacados
+**Perdedores destacados (sesión)**:
+- Intel (INTC) ~-30% (guidance débil para Q4)
+- Semiconductores: AMD ~-11%, NVDA ~-4-5%, Broadcom, etc.
+- Amazon (AMZN) ~-2 a -4% (miss de earnings y free cash flow negativo masivo)
+- Reddit (RDDT) ~-30%, Roblox (RBLX) ~-19%, otros digital/tech
+
+**Ganadores destacados**:
+- Regeneron (REGN) ~+11% (earnings fuertes)
+- Defensivos: Walmart, Coca-Cola, Procter & Gamble, Altria, etc. en Consumer Staples
+- Healthcare selectivos al alza
+
+**Sectores**: Technology y Communication Services lideran las caídas (XLK ~-4%, XLC negativo). Consumer Staples (XLP +1,4%), Healthcare (XLV +1%) y Utilities lideran al alza. Energy mixto/soportado por crudo alto. Rotación clara hacia defensivos.
+
+### Drivers macroeconómicos y geopolíticos del día y su impacto
+- **Earnings de AI/hyperscalers**: Amazon reportó miss en earnings/revenue y free cash flow negativo de $42.4 mil millones, manteniendo capex elevado ($220 mil millones para 2026). Intel con guidance débil. Continúa el impacto de Alphabet del jueves (peor día histórico por miss y cash burn de AI). Impacto: Dudas crecientes sobre el ROI del boom de AI capex, presión fuerte en Nasdaq y semis; rotación hacia defensivos.
+- **Fed e inflación**: Tras el hold de la semana, miembros de la Fed (Musalem, Barkin) señalan necesidad de tasas más altas por inflación elevada y broad-based. PCE mostró calor. Mercados consolidan expectativas de hike en diciembre. Impacto: Yields altos limitan valoraciones; tech más sensible.
+- **Petróleo y geopolítica**: Crudo al alza (WTI ~$104, Brent ~$113+) por tensiones persistentes en Medio Oriente (conflicto Irán, riesgos en Estrecho de Ormuz, Houthis). Earnings de Exxon/Chevron beneficiados por márgenes de refining. Impacto: Presión inflacionaria adicional, soporte relativo a Energy, headwind general por riesgo de shocks de oferta.
+- **Otros**: Hack de $6.3 mil millones en Binance golpea crypto (Bitcoin -5%+), spillover a sentiment de riesgo. Fin de mes con Nasdaq camino a ~-5% en octubre, mientras S&P casi plano y Dow positivo en el mes.
+- **Contexto general**: Rotación fuera del trade de AI hacia defensivos. Crecimiento resiliente y breadth mixta compensan parcialmente, pero volatilidad elevada por earnings y geopolitics.
+
+### Recomendaciones de cuentas en X (Twitter)
+Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
+
+- **@DeItaone** (Walter Bloomberg) – Headlines de mercado en tiempo casi real.
+- **@elerianm** (Mohamed El-Erian) – Macro, política monetaria y geopolítica.
+- **@LizAnnSonders** – Datos, breadth y sentimiento (Charles Schwab).
+- **@KobeissiLetter** – Resumen de noticias y movimientos de mercado.
+- **@zerohedge** – Visión contraria, macro y riesgos.
+- **@LiveSquawk** – Eventos en tiempo real (bancos centrales, datos, geopolítica).
+- **@business** (Bloomberg) y **@WSJMarkets** – Cobertura sólida y confiable.
+- **@charliebilello** – Datos históricos y contexto de mercado.
+- **@MacroAlf** – Macro cross-asset y política monetaria.
+- **@ritholtz** (Barry Ritholtz) – Análisis equilibrado de mercados y economía.
+- **@TheStalwart** (Joe Weisenthal) – Análisis macro y mercados con contexto.
+
+---
