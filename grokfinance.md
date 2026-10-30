@@ -136,3 +136,46 @@ Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y g
 - **@ritholtz** (Barry Ritholtz) – Análisis equilibrado de mercados y economía.
 
 ---
+
+## Viernes, 30 de octubre de 2026 – 10:27 AM (horario de Buenos Aires)
+
+### Índices (cierre del jueves 29/10 y situación actual/futuros)
+Los mercados cerraron a la baja el jueves, con el Nasdaq liderando las pérdidas por la fuerte caída de Alphabet, aunque la mayoría de acciones y small caps subieron. Esta mañana, los futuros apuntan a una apertura débil, especialmente en tech, por más decepción en earnings de Amazon e Intel.
+
+- **Dow Jones**: 52.342,56 (**-0,25%**)
+- **S&P 500**: 7.720,39 (**-0,30%**)
+- **Nasdaq Composite**: 26.184,72 (**-1,38%**)
+- **Russell 2000**: 2.859,22 (**+1,01%**)
+
+**Futuros (pre-market)**: Dow plano a levemente positivo (~0% a +0,1%), S&P 500 ~-1%, Nasdaq 100 ~-2% a -2,5%. VIX en torno a 17-18. El 10-year yield cerca de 4,94-5%.
+
+### Principales movers y sectores destacados
+**De ayer (jueves)**:
+- **Ganadores destacados**: Gen Digital (GEN) +15,8%, Carvana (CVNA) +15,7%, Norwegian Cruise Line (NCLH) +13,4%, Eli Lilly y nombres de Healthcare. Small caps y defensivos fuertes.
+- **Perdedores destacados**: Alphabet (GOOGL/GOOG) ~-12,6% (peor día histórico, pérdida de ~$500 mil millones de market cap) por miss en earnings/revenue, cash burn negativo masivo por gasto en AI y desaceleración en ads de Search. ServiceNow (NOW) -26,9%, Fortinet (FTNT) -20,1%, Marvell, etc.
+
+**Sectores (S&P 500 ayer)**: Health Care (+2,4-2,5%) y Real Estate (+2,2%) lideraron. Communication Services y Technology los peores (caídas significativas). Breadth positiva: más avanzadas que bajistas.
+
+**Hoy (pre-market)**: Intel (INTC) ~-25% (guidance débil), Amazon (AMZN) ~-7% (miss y cash burn), presión en semis (AMD, NVDA, AVGO). Algunos consumer/staples y energy al alza por earnings.
+
+### Drivers macroeconómicos y geopolíticos del día y su impacto
+- **AI y earnings de hyperscalers**: Alphabet reportó revenue y profit por debajo de expectativas, con free cash flow negativo de ~$9 mil millones por capex masivo en AI (~$51 mil millones en el trimestre) y señales de que AI Search está canibalizando ads tradicionales. Amazon e Intel también decepcionaron. Impacto: Fuerte rotación fuera de tech/Nasdaq, dudas sobre el ROI y sostenibilidad del boom de AI capex. Soporte relativo para defensivos y small caps.
+- **Inflación y Fed**: PCE más suave ayudó a Russell 2000 el jueves. Yields altos (~5%) y path de posibles hikes adicionales (diciembre) limitan valoraciones. Impacto: Cautela general; tech más sensible a yields y a la narrativa de AI.
+- **Petróleo y geopolítica**: Crudo al alza (WTI ~$104, Brent hacia $117-118) por tensiones persistentes en Medio Oriente (Irán, ataques de Houthis, riesgos en Estrecho de Ormuz) y fallos en negociaciones. Impacto: Presión inflacionaria adicional (complicando Fed), soporte para energy, headwind para consumer y transporte. Riesgo de shocks mayores de oferta.
+- **Contexto general**: Fin de mes con presión en el trade de AI tras varios misses. Crecimiento resiliente y breadth positiva compensan parcialmente, pero la volatilidad puede aumentar. Hoy earnings de Exxon, Chevron, AbbVie, etc.
+
+### Recomendaciones de cuentas en X (Twitter)
+Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
+
+- **@DeItaone** (Walter Bloomberg) – Headlines de mercado en tiempo casi real.
+- **@elerianm** (Mohamed El-Erian) – Macro, política monetaria y geopolítica.
+- **@LizAnnSonders** – Datos, breadth y sentimiento (Charles Schwab).
+- **@KobeissiLetter** – Resumen de noticias y movimientos de mercado.
+- **@zerohedge** – Visión contraria, macro y riesgos.
+- **@LiveSquawk** – Eventos en tiempo real (bancos centrales, datos, geopolítica).
+- **@business** (Bloomberg) y **@WSJMarkets** – Cobertura sólida y confiable.
+- **@charliebilello** – Datos históricos y contexto de mercado.
+- **@MacroAlf** – Macro cross-asset y política monetaria.
+- **@ritholtz** (Barry Ritholtz) – Análisis equilibrado de mercados y economía.
+
+---
