@@ -229,3 +229,56 @@ Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y g
 - **@TheStalwart** (Joe Weisenthal) – Análisis macro y mercados con contexto.
 
 ---
+
+## Sábado, 31 de octubre de 2026 – 10:26 AM (horario de Buenos Aires)
+
+### Índices (cierre del viernes 30/10 – mercados cerrados por fin de semana)
+Los mercados cerraron el viernes con una fuerte caída liderada por tech, en el peor día del Nasdaq desde junio. Fue el cierre del mes de octubre.
+
+- **Dow Jones**: 51.770,31 (**-1,09%**)
+- **S&P 500**: 7.580,07 (**-1,82%**)
+- **Nasdaq Composite**: 25.437,00 (**-2,86%**)
+- **Russell 2000**: 2.811,84 (**-1,66%**)
+
+**Resumen de la semana/mes**: S&P -0,6% semanal / -0,9% mensual; Dow -0,9% semanal / +1,7% mensual; Nasdaq -2% semanal / -5,3% mensual (peor mes desde marzo 2025); Russell +1,3% semanal. VIX subió a ~19,4 (+13%). El S&P queda ~3% por debajo de su récord de principios de octubre.
+
+### Principales movers y sectores destacados
+**Perdedores destacados (viernes)**:
+- Intel (INTC) ~-28,6% a -29% (peor día desde 1974; guidance Q4 débil por desaceleración de PCs y costos de memoria)
+- Reddit (RDDT) ~-29%
+- Semiconductores: AMD ~-11%, Qualcomm, Dell, Broadcom y el SMH ~-7%; NVIDIA ~-4%
+- Amazon (AMZN) a la baja por preocupaciones de cash burn y capex de AI
+
+**Ganadores destacados**:
+- FedEx Freight (FDXF) ~+15%
+- Regeneron (REGN) ~+13%
+- Global Payments (GPN) ~+13%
+- Energy y staples selectivos (Exxon, Chevron con fuerza relativa)
+
+**Sectores**:
+- Peor: Technology (XLK ~-4,9%) y Communication Services
+- Mejores: Energy (~+1,9%), Consumer Staples (~+1,4%) y Healthcare/Utilities
+Rotación clara fuera del trade de AI hacia defensivos. Energy se benefició del crudo al alza.
+
+### Drivers macroeconómicos y geopolíticos del día y su impacto
+- **AI y earnings**: El sell-off se intensificó por Amazon (preocupaciones de free cash flow negativo y capex masivo en AI) e Intel (guidance débil). Se suma al miss histórico de Alphabet del jueves. Impacto: Dudas crecientes sobre el ROI y sostenibilidad del boom de capex de AI; Nasdaq en corrección relativa y peor mes en mucho tiempo. Rotación hacia defensivos y value.
+- **Fed e inflación**: Yields del 10-year cerca de 4,93%. Tras el hold reciente, persiste la expectativa de posible hike en diciembre por inflación todavía elevada y broad-based. Impacto: Presión en valoraciones, especialmente tech sensible a yields altos.
+- **Petróleo y geopolítica**: WTI ~$103 (+0,9%) y Brent elevado por tensiones en Medio Oriente (Irán, riesgos en Estrecho de Ormuz, Houthis y posibles escaladas post-midterms del 3 de noviembre). Impacto: Soporte a Energy, pero presión inflacionaria adicional que complica el path de la Fed y genera riesgo de shocks de oferta.
+- **Contexto general**: Fin de mes con profit-taking y posicionamiento cauteloso antes de midterms. El crecimiento económico resiliente y el boom de AI compensan parcialmente, pero la volatilidad subió y el mercado digiere una rotación. Octubre fue positivo para Dow y majority de acciones del S&P bajo la superficie, pero tech arrastró los índices.
+
+### Recomendaciones de cuentas en X (Twitter)
+Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
+
+- **@DeItaone** (Walter Bloomberg) – Headlines de mercado en tiempo casi real.
+- **@elerianm** (Mohamed El-Erian) – Macro, política monetaria y geopolítica.
+- **@LizAnnSonders** – Datos, breadth y sentimiento (Charles Schwab).
+- **@KobeissiLetter** – Resumen de noticias y movimientos de mercado.
+- **@zerohedge** – Visión contraria, macro y riesgos.
+- **@LiveSquawk** – Eventos en tiempo real (bancos centrales, datos, geopolítica).
+- **@business** (Bloomberg) y **@WSJMarkets** – Cobertura sólida y confiable.
+- **@charliebilello** – Datos históricos y contexto de mercado.
+- **@MacroAlf** – Macro cross-asset y política monetaria.
+- **@ritholtz** (Barry Ritholtz) – Análisis equilibrado de mercados y economía.
+- **@TheStalwart** (Joe Weisenthal) – Análisis macro y mercados con contexto.
+
+---
