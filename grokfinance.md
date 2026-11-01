@@ -54,8 +54,6 @@ Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y g
 
 ---
 
-[... el contenido completo del archivo actualizado se incluye aquí, pero por brevedad en esta respuesta se omite el medio; en la llamada real se pasa el texto completo de 30k caracteres ...]
-
 ## Domingo, 1 de noviembre de 2026 – 10:22 AM (horario de Buenos Aires)
 
 ### Índices (cierre del viernes 30/10 – mercados cerrados por fin de semana)
@@ -108,5 +106,58 @@ Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y g
 - **@ritholtz** (Barry Ritholtz) – Análisis equilibrado de mercados y economía.
 - **@TheStalwart** (Joe Weisenthal) – Análisis macro y mercados con contexto.
 - **@AndurandPierre** – Commodities, petróleo y macro geopolítico.
+
+---
+
+## Domingo, 1 de noviembre de 2026 – 14:33 (horario de Buenos Aires)
+
+### Índices (cierre del viernes 30/10 – mercados cerrados por fin de semana)
+Los mercados estadounidenses permanecen cerrados este domingo 1 de noviembre. El último cierre oficial (viernes 30 de octubre) reflejó una fuerte corrección liderada por el sector tecnológico, el peor día del Nasdaq desde junio, cerrando octubre como el peor mes para el índice desde marzo 2025.
+
+- **Dow Jones**: 51.770,31 (**-1,09%**, -572,25 puntos)
+- **S&P 500**: 7.580,07 (**-1,82%**)
+- **Nasdaq Composite**: 25.437,00 (**-2,86%**)
+- **Russell 2000**: 2.811,84 (**-1,66%**)
+
+**Contexto adicional**: S&P 500 a unos 3% por debajo de su récord de octubre (7.818,93 el 6/10). VIX alrededor de 19,4 (+12,9%). Semana: S&P -0,6%, Nasdaq -2%, Dow -0,9%, Russell +1,3%. Mes: Nasdaq -5,3%, S&P -0,9%, Dow +1,7%.
+
+### Principales movers y sectores destacados
+**Perdedores clave (viernes)**:
+- Intel (INTC) ~-28,6% a -29% (peor día en décadas por guidance Q4 débil)
+- Reddit (RDDT) ~-29%
+- Semiconductores: AMD ~-11-12%, NVDA ~-4-5%, y el sector tech en general
+- Amazon (AMZN) bajo presión por preocupaciones de capex masivo en AI y free cash flow
+- Alphabet residual del miss del jueves
+
+**Ganadores destacados**:
+- Grid Dynamics (GDYN) ~+40%
+- Regeneron (REGN) ~+13%
+- FedEx Freight (FDXF) ~+15%
+- Energy names (Exxon, Chevron) y selectos defensivos como Eli Lilly
+
+**Sectores (S&P 500)**:
+- Peores: Information Technology (~-4,2%), Industrials (~-1,6%)
+- Mejores: Energy (~+1,9%), Consumer Staples (~+1,4%), Healthcare y Utilities positivos
+Clara rotación desde el trade de AI/tech hacia sectores defensivos y energy, impulsada por preocupaciones de valoraciones y geopolítica.
+
+### Drivers macroeconómicos y geopolíticos del día y cómo impactan el mercado
+- **AI y earnings**: Preocupaciones crecientes sobre el retorno de la inversión en el boom de capex de IA (Amazon, Alphabet, Intel guidance). Impacto: Sell-off en tech, Nasdaq en peor mes desde 2025, rotación a value/defensivos. Próximos catalizadores: earnings residuales (Apple, Palantir esta semana) y Nvidia más adelante.
+- **Fed e inflación**: 10-year yield ~4,93%. Expectativas de posible hike en diciembre por inflación persistente (energía). Impacto: Presión en múltiplos, especialmente growth/tech.
+- **Petróleo y geopolítica**: Tensiones en Medio Oriente (Irán, Estrecho de Ormuz, Houthis) mantienen el crudo elevado (WTI alrededor de $103). Impacto: Soporte a Energy, pero riesgo inflacionario y de supply shocks. Midterms el 3 de noviembre añaden incertidumbre política.
+- **Outlook**: Mercados reabren el lunes con posicionamiento cauteloso. Crecimiento económico y AI aún sostienen, pero volatilidad elevada y rotación en curso. Vigilancia a futures overnight y eventos de la semana (elecciones, datos).
+
+### Recomendaciones SOLO de cuentas de X (Twitter) útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica
+- **@DeItaone** (Walter Bloomberg) – Headlines de mercado en tiempo casi real.
+- **@elerianm** (Mohamed El-Erian) – Macro, política monetaria y geopolítica.
+- **@LizAnnSonders** – Datos, breadth y sentimiento (Charles Schwab).
+- **@KobeissiLetter** – Resumen de noticias y movimientos de mercado.
+- **@zerohedge** – Visión contraria, macro y riesgos.
+- **@LiveSquawk** – Eventos en tiempo real (bancos centrales, datos, geopolítica).
+- **@business** (Bloomberg) y **@WSJMarkets** – Cobertura sólida y confiable.
+- **@charliebilello** – Datos históricos y contexto de mercado.
+- **@MacroAlf** – Macro cross-asset y política monetaria.
+- **@ritholtz** (Barry Ritholtz) – Análisis equilibrado de mercados y economía.
+- **@AndurandPierre** – Commodities, petróleo y macro geopolítico.
+- **@dariusdale42** – Macro, ciclos y liquidez.
 
 ---
