@@ -161,3 +161,52 @@ Clara rotación desde el trade de AI/tech hacia sectores defensivos y energy, im
 - **@dariusdale42** – Macro, ciclos y liquidez.
 
 ---
+
+## Lunes, 2 de noviembre de 2026 – 10:26 AM (horario de Buenos Aires)
+
+### Índices (cierre del viernes 30/10 y futuros pre-market)
+Los mercados reabren hoy lunes. El último cierre oficial (viernes) fue negativo, liderado por tech/AI. Los futuros apuntan a una apertura al alza (datos aproximados de pre-market ~8:00-8:30 AM ET):
+
+- **Dow Jones**: 51.770,31 (**-1,09%** el viernes). Futuros ~+0,3% a +0,6%.
+- **S&P 500**: 7.580,07 (**-1,82%**). Futuros ~+0,4% a +0,5%.
+- **Nasdaq Composite**: 25.437,00 (**-2,86%**). Futuros Nasdaq 100 ~+0,6% a +0,9%.
+- **Russell 2000**: 2.811,84 (**-1,66%**).
+
+VIX cerca de 19,4. Octubre cerró con Nasdaq -5,3% (peor mes desde marzo 2025), S&P -0,9% y Dow +1,7%.
+
+### Principales movers y sectores destacados
+**Del cierre del viernes**:
+- Grandes perdedores: Intel (INTC) ~-28,6% (guidance débil), Reddit (RDDT) ~-29%, semiconductores (AMD ~-11%, NVDA ~-4%, SMH fuerte baja).
+- Ganadores relativos: Energy names (Exxon, Chevron), Regeneron, FedEx Freight y algunos defensivos.
+
+**Pre-market hoy**:
+- Rebote en chips/AI (NVDA, AMD, Micron, etc. al alza).
+- Energy y productores de petróleo a la baja por la caída del crudo.
+- Apple (AAPL) ligeramente débil antes de sus resultados (after the close).
+- Deal destacado: Marvell acuerda comprar Lumentum (valor enterprise ~$115B).
+
+**Sectores (viernes)**: Technology el peor (~-4%), Energy el mejor (~+1,4-1,9%). Hoy se invierte: tech rebotando, energy bajo presión por petróleo.
+
+### Drivers macroeconómicos y geopolíticos del día y su impacto
+- **Petróleo y geopolítica (Irán)**: Caída fuerte del crudo (WTI ~-4% hacia ~$99-100, Brent también baja) por señales de diplomacia (talks en Doha, propuestas de reapertura del Estrecho de Ormuz, Trump favorece dar tiempo a la diplomacia antes de posibles acciones post-midterms). Impacto: Alivio inflacionario y soporte a risk-on (futuros al alza), pero Energy se resiente. Persisten riesgos (incidentes de minas, advertencias de represalias).
+- **AI y earnings**: El sell-off de la semana pasada (Intel, Amazon capex, Alphabet) generó dudas sobre ROI del boom de IA. Hoy hay rebote selectivo en tech. Catalizadores: Apple y Palantir reportan hoy after close; semana cargada de resultados. Impacto: Rotación parcial de vuelta a tech si los números sorprenden positivamente.
+- **Midterms (mañana 3 de noviembre)**: Alta incertidumbre política. Resultados pueden afectar regulación de AI, energía limpia, defense, healthcare y política fiscal. Impacto: Posicionamiento cauteloso; gridlock podría ser visto como positivo por mercados.
+- **Datos y Fed**: ISM Manufacturing hoy; payrolls el viernes. Yields del 10-year ~4,93%. Inflación todavía elevada por energía mantiene presión en valuaciones growth. Impacto: Futuros positivos por alivio del petróleo y sobreventa en tech, pero la semana será volátil.
+
+El mercado digiere la corrección de octubre y busca estabilización con catalizadores de earnings + geopolítica.
+
+### Recomendaciones SOLO de cuentas de X (Twitter) útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica
+- **@DeItaone** (Walter Bloomberg) – Headlines de mercado en tiempo casi real.
+- **@elerianm** (Mohamed El-Erian) – Macro, política monetaria y geopolítica.
+- **@LizAnnSonders** – Datos, breadth y sentimiento (Charles Schwab).
+- **@KobeissiLetter** – Resumen de noticias y movimientos de mercado.
+- **@zerohedge** – Visión contraria, macro y riesgos.
+- **@LiveSquawk** – Eventos en tiempo real (bancos centrales, datos, geopolítica).
+- **@business** (Bloomberg) y **@WSJMarkets** – Cobertura sólida y confiable.
+- **@charliebilello** – Datos históricos y contexto de mercado.
+- **@MacroAlf** – Macro cross-asset y política monetaria.
+- **@ritholtz** (Barry Ritholtz) – Análisis equilibrado de mercados y economía.
+- **@AndurandPierre** – Commodities, petróleo y macro geopolítico.
+- **@dariusdale42** – Macro, ciclos y liquidez.
+
+---
