@@ -252,3 +252,54 @@ El mercado mantiene rotación y cautela ante catalizadores políticos y de earni
 - **@ritholtz** (Barry Ritholtz) – Análisis equilibrado de mercados y economía.
 - **@AndurandPierre** – Commodities, petróleo y macro geopolítico.
 - **@dariusdale42** – Macro, ciclos y liquidez.
+
+---
+
+## Martes, 3 de noviembre de 2026 – 14:33 (horario de Buenos Aires)
+
+### Índices (sesión en curso, aproximado ~12:30 PM EST / 14:30 ART)
+Los mercados operan mixtos este martes de elecciones midterm: el Dow a la baja por presión de Apple, mientras el Nasdaq y small caps avanzan con rebote en semiconductores.
+
+- **Dow Jones**: ≈51.724 (**-0,50%**)
+- **S&P 500**: ≈7.574 (**+0,43%**)
+- **Nasdaq Composite**: ≈25.402 (**+0,94%**)
+- **Russell 2000**: ≈+0,78% (alrededor de 2.828)
+
+VIX cerca de 20,7 (a la baja). Breadth positiva en general.
+
+### Principales movers y sectores destacados
+**Ganadores destacados (intradía)**:
+- Semiconductores/AI: NVIDIA (NVDA) ~+2,9% (supera a Apple en market cap), AMD ~+5% (antes de earnings after close), Micron, SanDisk y chips en general rebotando fuerte tras el sell-off reciente.
+- Otros: Ibotta (IBTA) ~+27%, algunos small/mid caps y selectos en Industrials/Tech.
+
+**Perdedores destacados**:
+- Apple (AAPL) ~-2% a -3% (guidance de margen débil por costos de memoria "sin precedentes"; beat en revenue/EPS pero presión en profitability).
+- Palantir residual a la baja; algunos materials y staples.
+
+**Sectores**:
+- Líder: Technology (~+1,3% a +1,6%) por el rebote en semis.
+- Industrials también positivos.
+- Rezagados: Materials, Consumer Staples y Energy (petróleo a la baja).
+Rotación parcial de vuelta a tech/semis, con small caps outperforming.
+
+### Drivers macroeconómicos y geopolíticos del día y cómo impactan el mercado
+- **Midterms 2026 (hoy)**: Votación en curso. Demócratas favorecidos para tomar la Cámara; Senado reñido (posible blue sweep o split Congress). Impacto: Incertidumbre política añade volatilidad; un blue wave podría aumentar oversight a AI, tech y fiscal (deuda), pesando short-term en growth; históricamente el S&P tiende a subir post-midterms. Posicionamiento cauteloso.
+- **Earnings (Apple y chips)**: Apple reportó revenue record (+12%) y EPS beat, pero guidance de gross margin 45-46% (por costos de memoria elevados y Siri AI) y desaceleración en Services. Impacto: Presión en Dow y confirma costos altos en cadena de suministro de AI. Semis rebotan fuerte (NVDA, AMD, Micron) tras sobreventa; AMD reporta after close hoy.
+- **Petróleo y geopolítica (Irán)**: Crudo sigue a la baja (WTI ~$96, Brent ~$104) por esperanzas de diplomacia y talks mediadas por Qatar (autoridades iraníes para negociar). Impacto: Alivio inflacionario parcial, soporte a risk assets y Dow relativo, pero Energy lagging. Riesgos de escalada persisten (strikes limitados, Estrecho de Ormuz).
+- **Datos**: JOLTS (job openings) superó expectativas (~7,5M). Yields del 10-year ligeramente más altos. Impacto: Confirma resiliencia laboral, pero mantiene presión en path de Fed (posibles hikes si inflación persiste).
+
+El mercado muestra resiliencia con rebote selectivo en tech/semis, pero cautela por elecciones y costos de AI. Post-cierre: resultados de midterms y AMD serán clave.
+
+### Recomendaciones SOLO de cuentas de X (Twitter) útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica
+- **@DeItaone** (Walter Bloomberg) – Headlines de mercado en tiempo casi real.
+- **@elerianm** (Mohamed El-Erian) – Macro, política monetaria y geopolítica.
+- **@LizAnnSonders** – Datos, breadth y sentimiento (Charles Schwab).
+- **@KobeissiLetter** – Resumen de noticias y movimientos de mercado.
+- **@zerohedge** – Visión contraria, macro y riesgos.
+- **@LiveSquawk** – Eventos en tiempo real (bancos centrales, datos, geopolítica).
+- **@business** (Bloomberg) y **@WSJMarkets** – Cobertura sólida y confiable.
+- **@charliebilello** – Datos históricos y contexto de mercado.
+- **@MacroAlf** – Macro cross-asset y política monetaria.
+- **@ritholtz** (Barry Ritholtz) – Análisis equilibrado de mercados y economía.
+- **@AndurandPierre** – Commodities, petróleo y macro geopolítico.
+- **@dariusdale42** – Macro, ciclos y liquidez.
