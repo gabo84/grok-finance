@@ -210,3 +210,45 @@ El mercado digiere la corrección de octubre y busca estabilización con cataliz
 - **@dariusdale42** – Macro, ciclos y liquidez.
 
 ---
+
+## Martes, 3 de noviembre de 2026 – 10:22 AM (horario de Buenos Aires)
+
+### Índices (cierre del lunes 2/11 y futuros pre-market)
+Los mercados cerraron mixtos el lunes, con el Dow al alza y el Nasdaq a la baja por presión en tech/AI. Los futuros apuntan a una apertura mixta este martes (datos aproximados de pre-market):
+
+- **Dow Jones**: 51.983,98 (**+0,41%** el lunes). Futuros ~-0,6% a -0,7%.
+- **S&P 500**: 7.541,40 (**-0,51%**). Futuros ~-0,1% a -0,2%.
+- **Nasdaq Composite**: 25.164,36 (**-1,07%**). Futuros Nasdaq 100 ~+0,2% a +0,3%.
+- **Russell 2000**: 2.805,88 (**-0,21%**).
+
+VIX alrededor de 21. La mayoría de acciones avanzaron el lunes, pero el peso de tech arrastró los índices principales.
+
+### Principales movers y sectores destacados
+**Del cierre del lunes**:
+- Perdedores clave: Intel (INTC) ~-8,8%, Oracle (ORCL) ~-8,8%, AMD ~-7,5%, Lumentum (LITE) fuerte baja por deal, chips en general bajo presión.
+- Ganadores: IDEXX Laboratories ~+22%, Molson Coors ~+7,8%, LKQ ~+7,4%, Howmet Aerospace ~+6,9%. Consumer discretionary y materials lideraron.
+- Premarket hoy: Apple (AAPL) ~-3% a -4% post-earnings (margen guidance débil por costos de memoria); Palantir (PLTR) ~-7% a -8% a pesar de beat (preocupaciones de bookings).
+
+**Sectores (lunes)**: Energy el peor (~-4%, por caída del petróleo), Technology ~-2,7%, Consumer Discretionary el mejor (~+2,25%), Materials ~+1,8%, Financials positivos. Rotación parcial fuera de tech.
+
+### Drivers macroeconómicos y geopolíticos del día y cómo impactan el mercado
+- **Midterms 2026 (hoy)**: Elecciones de medio término. Demócratas favorecidos para ganar la Cámara; Senado más reñido (posible blue sweep o split). Impacto: Incertidumbre política; un blue wave podría aumentar escrutinio a AI/capex y regular tech, pesando short-term en growth; gridlock suele ser positivo para mercados históricamente. Post-elecciones, el S&P suele subir a mediano plazo.
+- **Earnings (Apple y Palantir)**: Apple beat en revenue/EPS (iPhone fuerte +12% revenue) pero guidance de margen más baja (45-46% por costos de memoria "sin precedentes") y China débil; Palantir beat pero stock cae. Impacto: Presión adicional en tech y confirma preocupaciones de costos en AI/semis. AMD reporta hoy after close.
+- **Petróleo y geopolítica (Irán)**: Petróleo volátil (caída fuerte el lunes por esperanzas de diplomacia, rebotes por strikes limitados). Impacto: Alivio inflacionario parcial el lunes (soporte a Dow), pero Energy bajo presión; riesgos de escalada persisten.
+- **Datos y Fed**: JOLTS hoy; yields del 10-year ~4,89%. Inflación elevada y posibles hikes mantienen presión en valuaciones. Impacto: Futuros mixtos por cautela pre-elecciones y earnings; tech aún digiere dudas de ROI en AI.
+
+El mercado mantiene rotación y cautela ante catalizadores políticos y de earnings en un contexto de volatilidad elevada en tech.
+
+### Recomendaciones SOLO de cuentas de X (Twitter) útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica
+- **@DeItaone** (Walter Bloomberg) – Headlines de mercado en tiempo casi real.
+- **@elerianm** (Mohamed El-Erian) – Macro, política monetaria y geopolítica.
+- **@LizAnnSonders** – Datos, breadth y sentimiento (Charles Schwab).
+- **@KobeissiLetter** – Resumen de noticias y movimientos de mercado.
+- **@zerohedge** – Visión contraria, macro y riesgos.
+- **@LiveSquawk** – Eventos en tiempo real (bancos centrales, datos, geopolítica).
+- **@business** (Bloomberg) y **@WSJMarkets** – Cobertura sólida y confiable.
+- **@charliebilello** – Datos históricos y contexto de mercado.
+- **@MacroAlf** – Macro cross-asset y política monetaria.
+- **@ritholtz** (Barry Ritholtz) – Análisis equilibrado de mercados y economía.
+- **@AndurandPierre** – Commodities, petróleo y macro geopolítico.
+- **@dariusdale42** – Macro, ciclos y liquidez.
