@@ -43,3 +43,50 @@ Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y g
 - **@Nouriel** (Nouriel Roubini): Riesgos macro, geopolítica e inflación.
 
 Estas cuentas ofrecen una combinación de noticias rápidas, análisis profundo y contexto estratégico.
+
+
+---
+
+## Viernes, 6 de noviembre de 2026 – 14:33 (horario de Buenos Aires)
+
+### Estado actual de índices (sesión en curso, datos aproximados de mediodía EST)
+
+- **Dow Jones Industrial Average**: ~51.570 (+0,09%)
+- **S&P 500**: ~7.420 (+0,90%)
+- **Nasdaq Composite**: ~24.710 (+1,63%)
+- **Russell 2000**: +0,84% aproximadamente
+
+Recuperación parcial tras el fuerte selloff del jueves. El Nasdaq y el sector tecnológico lideran el rebote, mientras el Dow muestra mayor debilidad. El VIX ha bajado desde los máximos del jueves.
+
+### Principales movers y sectores destacados
+
+Tecnología lidera las ganancias (alrededor de +2%), con fuerte recuperación en semiconductores (AMD, Intel, Micron y NVDA rebotando significativamente tras pérdidas del 9-17% ayer). 
+
+Otros movers destacados: Gogo (GOGO) +55%, JFrog (FROG) +34%. 
+
+Sectores: Tech y Communication Services positivos; Consumer Staples y algunos defensivos rezagados. Breadth positiva en la sesión.
+
+### Drivers macroeconómicos y geopolíticos
+
+**Reporte de empleo de octubre**: Nonfarm payrolls +165.000 (muy por encima de las expectativas de ~65.000), desempleo baja a 4,1%. El mercado laboral se mantiene resiliente, lo que aumenta las apuestas de subida de tasas de la Fed en diciembre (alrededor del 78%). Esto limita el alivio por inflación pero apoya la narrativa de soft landing.
+
+**Post-midterms**: Continúa el impacto de la victoria demócrata (control de Cámara y Senado), con temores de mayor regulación sobre AI y data centers que provocaron el crash de ayer. Hoy se observa compra de dip en chips tras el oversold.
+
+**Geopolítica**: Esperanzas de desescalada en el conflicto con Irán tras los resultados electorales (el alto costo de energía contribuyó a la derrota republicana), lo que ha presionado el petróleo a la baja, aliviando parcialmente las preocupaciones inflacionarias. Riesgos de estanflación persisten si la energía se mantiene elevada.
+
+Impacto en el mercado: Rebote técnico en tech tras el "AI wreck", pero con volatilidad aún elevada. Los datos de empleo reducen la probabilidad de recortes inmediatos y apoyan yields más altos. Monitorear el desarrollo diplomático en Oriente Medio y las próximas cifras de inflación.
+
+### Recomendaciones de cuentas de X (Twitter)
+
+Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
+
+- **@DeItaone**: Headlines de mercado y noticias en tiempo casi real.
+- **@elerianm** (Mohamed El-Erian): Perspectivas macro, bancos centrales e inflación.
+- **@LizAnnSonders**: Charts, breadth, sentimiento y datos económicos.
+- **@LiveSquawk**: Cobertura en vivo de eventos macro y geopolíticos.
+- **@ritholtz** (Barry Ritholtz): Análisis de mercado y comportamiento inversor.
+- **@PeterLBrandt**: Análisis técnico de índices y commodities.
+- **@Nouriel** (Nouriel Roubini): Riesgos macro, geopolítica e inflación.
+- **@financialjuice**: Datos macro y releases económicos en tiempo real.
+
+Estas cuentas proporcionan noticias rápidas, análisis profundo y contexto estratégico.
