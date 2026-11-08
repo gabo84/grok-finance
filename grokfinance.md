@@ -243,3 +243,57 @@ Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y g
 Estas cuentas combinan noticias rápidas, análisis profundo y contexto estratégico.
 
 **Nota**: Resumen basado en el cierre del viernes 6 de noviembre (mercados cerrados el domingo). Datos de fuentes como AP, CNBC, WSJ y reportes de mercado.
+
+
+---
+
+## Domingo, 8 de noviembre de 2026 – 14:33 (horario de Buenos Aires)
+
+### Estado actual / cierre de índices (sesión del viernes 6 de noviembre de 2026)
+
+Mercados cerrados el domingo. Último cierre oficial del viernes:
+
+- **Dow Jones Industrial Average**: 51.285,73 (-237,33 / -0,46%)
+- **S&P 500**: 7.376,86 (+23,13 / +0,31%)
+- **Nasdaq Composite**: 24.579,43 (+264,43 / +1,09%)
+- **Russell 2000**: 2.754,11 (+24,22 / +0,89%)
+
+Cierre mixto con rebote liderado por tecnología y small caps tras el fuerte selloff del jueves (peor sesión desde abril 2025). La semana fue negativa: S&P 500 -2,68%, Nasdaq -3,37%, Dow -0,94%, Russell 2000 -2,05%. El S&P se mantiene ~5,65% por debajo de su récord de octubre. El VIX cerró cerca de 25,6 (bajó ~9%).
+
+### Principales movers y sectores destacados
+
+Siete de los 11 sectores del S&P 500 cerraron en rojo. Information Technology lideró las ganancias (+1,26% aproximadamente), seguido de Communication Services. Consumer Staples fue el peor (~-1,21%), seguido de Financials. Semiconductores y temas de IA rebotaron con fuerza tras el oversold del jueves (SMH alrededor de +3,6%).
+
+**Gainers destacados**: AMD (~+11%), Nvidia (+2,78%), Tesla (+4,2%), SpaceX (+8,6%), IREN (+20%), Lam Research (+8,2%), Airbnb (fuerte subida tras elevar guía), Coherent y otros de fotónica/semis.
+**Losers**: Axon Enterprise (-18,2% tras resultados y guía), Charter Communications (-6,2%), Microchip Technology (-10%) y varios nombres defensivos o con resultados débiles.
+
+Hubo rotación hacia crecimiento/tech y fuera de defensivos. Breadth mixta (más decliners que advancers en el S&P).
+
+### Drivers macroeconómicos y geopolíticos
+
+**Reporte de empleo de octubre**: Nonfarm payrolls +165.000 (muy por encima de ~65.000 esperado), desempleo bajó a 4,1%. Revisiones al alza en meses previos. El mercado laboral resiliente elevó las probabilidades de subida de tasas de la Fed en diciembre (alrededor del 70-78%), lo que firmó los yields (10 años cerca de 4,86%) y limitó el alcance del rebote, aunque apoyó la narrativa de soft landing.
+
+**Post-midterms**: Continúa el impacto de la victoria demócrata (control de Cámara y Senado). Los temores de mayor escrutinio, regulación o desaceleración en data centers e inversión en IA provocaron el crash del jueves (~$3 billones en valor de mercado y Nasdaq en corrección). El viernes hubo compras de dip en chips, moderando el pánico, aunque persiste incertidumbre sobre el ritmo de gasto en infraestructura de IA bajo el nuevo Congreso.
+
+**Geopolítica**: Esperanzas de desescalada en el conflicto con Irán (el alto costo de la energía contribuyó a la derrota republicana) han presionado el petróleo a la baja, aliviando parcialmente las preocupaciones inflacionarias. Persisten riesgos de estanflación (crecimiento más lento con inflación elevada por energía) si las negociaciones no avanzan. El gridlock político (con veto presidencial) favorece relativa estabilidad en política fiscal y arancelaria.
+
+Impacto: Rebote técnico liderado por tech y semis, Dow bajo presión, yields más firmes. La semana fue negativa por el “AI wreck” y la incertidumbre política. Claves a monitorear en la próxima semana: datos de inflación (CPI/PPI), desarrollo diplomático en Oriente Medio, comentarios de la Fed y el ritmo de inversión en IA.
+
+### Recomendaciones de cuentas de X (Twitter)
+
+Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
+
+- **@DeItaone**: Headlines de mercado y noticias en tiempo casi real (estilo terminal).
+- **@elerianm** (Mohamed El-Erian): Perspectivas macro, política de bancos centrales, inflación y riesgos globales.
+- **@LizAnnSonders**: Charts y datos de mercado, sentimiento, breadth y economía.
+- **@LiveSquawk**: Cobertura en vivo de eventos macro, datos económicos y geopolíticos.
+- **@ritholtz** (Barry Ritholtz): Análisis de mercado, comportamiento de inversores y macro.
+- **@PeterLBrandt**: Análisis técnico de índices y commodities.
+- **@KobeissiLetter**: Noticias de mercado, datos y contexto macro en tiempo real.
+- **@financialjuice**: Releases económicos y datos macro instantáneos.
+- **@Nouriel** (Nouriel Roubini): Riesgos macro, geopolítica e inflación.
+- **@charliebilello**: Datos históricos, charts y contexto de mercado.
+
+Estas cuentas combinan noticias rápidas, análisis profundo y contexto estratégico.
+
+**Nota**: Resumen basado en el cierre del viernes 6 de noviembre (mercados cerrados el domingo). Datos de fuentes como AP, CNBC y reportes de mercado.
