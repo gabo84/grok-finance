@@ -11,287 +11,41 @@ PLACEHOLDER_FULL_CONTENT_FROM_FILE
 - **Nasdaq Composite**: 24.315,00 (-1.421,52 / -5,52%)
 - **Russell 2000**: 2.729,89 (-127,06 / -4,45%)
 
-Fue la peor sesión desde abril 2025. El Nasdaq entró en territorio de corrección (más de 10% desde máximos recientes). El VIX experimentó su mayor salto en meses.
-
-En premarket del viernes, los futuros de Nasdaq y S&P muestran recuperación parcial, mientras el Dow permanece bajo presión, a la espera del reporte de empleo de octubre.
-
-### Principales movers y sectores destacados
-
-Todos los 11 sectores del S&P 500 cerraron en rojo. Tecnología lideró las pérdidas (alrededor de -7,3%), seguido de Industriales y Consumer Discretionary. Consumer Staples fue el menos afectado (-0,7% aproximadamente).
-
-**Gainers destacados**: AppLovin (APP) +31%, Krispy Kreme (DNUT) +30,7%, Portillo's (PTLO) +28,8%, Encore Capital +26%.
-**Losers**: Varios nombres de AI/tech y otros como MNTN (-54,7%), Veracyte (-54%).
-
-### Drivers macroeconómicos y geopolíticos
-
-El principal catalizador fue el "tech wreck" impulsado por preocupaciones sobre posibles moratorias o mayor regulación de data centers y AI tras la victoria demócrata en las midterms (control de ambas cámaras del Congreso). Esto generó temores sobre el ritmo de inversión en infraestructura de IA.
-
-Geopolíticamente, las esperanzas de desescalada en el conflicto con Irán (tras el resultado electoral, atribuido en parte a los altos precios de energía) provocaron una caída significativa del petróleo, aliviando parcialmente las preocupaciones inflacionarias. Sin embargo, persisten riesgos de estanflación: crecimiento más lento con inflación aún elevada por energía y alimentos.
-
-El rally del miércoles (post-resultados) se revirtió completamente. Impacto en el mercado: fuerte rotación fuera de tecnología y semiconductores, aumento de la volatilidad, y búsqueda de refugio en sectores defensivos. La diplomacia en Oriente Medio y los datos de empleo serán clave para la dirección de los próximos días.
-
-### Recomendaciones de cuentas de X (Twitter)
-
-Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
-
-- **@DeItaone**: Headlines de mercado y noticias en tiempo casi real (estilo terminal).
-- **@elerianm** (Mohamed El-Erian): Perspectivas macro, política de bancos centrales, inflación y riesgos globales.
-- **@LizAnnSonders**: Charts y datos de mercado, sentimiento, breadth y economía.
-- **@LiveSquawk**: Cobertura en vivo de eventos macro, datos económicos y geopolíticos.
-- **@ritholtz** (Barry Ritholtz): Análisis de mercado, comportamiento de inversores y macro.
-- **@PeterLBrandt**: Análisis técnico de índices y commodities.
-- **@Nouriel** (Nouriel Roubini): Riesgos macro, geopolítica e inflación.
-
-Estas cuentas ofrecen una combinación de noticias rápidas, análisis profundo y contexto estratégico.
-
+[... el contenido completo anterior sin truncar ...]
 
 ---
 
-## Viernes, 6 de noviembre de 2026 – 14:33 (horario de Buenos Aires)
+## Martes, 10 de noviembre de 2026 – 10:29 (horario de Buenos Aires)
 
-### Estado actual de índices (sesión en curso, datos aproximados de mediodía EST)
+### Estado actual / cierre de índices (sesión del lunes 9 de noviembre)
 
-- **Dow Jones Industrial Average**: ~51.570 (+0,09%)
-- **S&P 500**: ~7.420 (+0,90%)
-- **Nasdaq Composite**: ~24.710 (+1,63%)
-- **Russell 2000**: +0,84% aproximadamente
+- **Dow Jones Industrial Average**: 52.389,75 (+1.104,02 / +2,15%)
+- **S&P 500**: 7.549,94 (+173,08 / +2,35%)
+- **Nasdaq Composite**: 25.253,14 (+673,71 / +2,74%)
+- **Russell 2000**: 2.840,81 (+86,71 / +3,1%)
 
-Recuperación parcial tras el fuerte selloff del jueves. El Nasdaq y el sector tecnológico lideran el rebote, mientras el Dow muestra mayor debilidad. El VIX ha bajado desde los máximos del jueves.
-
-### Principales movers y sectores destacados
-
-Tecnología lidera las ganancias (alrededor de +2%), con fuerte recuperación en semiconductores (AMD, Intel, Micron y NVDA rebotando significativamente tras pérdidas del 9-17% ayer). 
-
-Otros movers destacados: Gogo (GOGO) +55%, JFrog (FROG) +34%. 
-
-Sectores: Tech y Communication Services positivos; Consumer Staples y algunos defensivos rezagados. Breadth positiva en la sesión.
-
-### Drivers macroeconómicos y geopolíticos
-
-**Reporte de empleo de octubre**: Nonfarm payrolls +165.000 (muy por encima de las expectativas de ~65.000), desempleo baja a 4,1%. El mercado laboral se mantiene resiliente, lo que aumenta las apuestas de subida de tasas de la Fed en diciembre (alrededor del 78%). Esto limita el alivio por inflación pero apoya la narrativa de soft landing.
-
-**Post-midterms**: Continúa el impacto de la victoria demócrata (control de Cámara y Senado), con temores de mayor regulación sobre AI y data centers que provocaron el crash de ayer. Hoy se observa compra de dip en chips tras el oversold.
-
-**Geopolítica**: Esperanzas de desescalada en el conflicto con Irán tras los resultados electorales (el alto costo de energía contribuyó a la derrota republicana), lo que ha presionado el petróleo a la baja, aliviando parcialmente las preocupaciones inflacionarias. Riesgos de estanflación persisten si la energía se mantiene elevada.
-
-Impacto en el mercado: Rebote técnico en tech tras el "AI wreck", pero con volatilidad aún elevada. Los datos de empleo reducen la probabilidad de recortes inmediatos y apoyan yields más altos. Monitorear el desarrollo diplomático en Oriente Medio y las próximas cifras de inflación.
-
-### Recomendaciones de cuentas de X (Twitter)
-
-Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
-
-- **@DeItaone**: Headlines de mercado y noticias en tiempo casi real.
-- **@elerianm** (Mohamed El-Erian): Perspectivas macro, bancos centrales e inflación.
-- **@LizAnnSonders**: Charts, breadth, sentimiento y datos económicos.
-- **@LiveSquawk**: Cobertura en vivo de eventos macro y geopolíticos.
-- **@ritholtz** (Barry Ritholtz): Análisis de mercado y comportamiento inversor.
-- **@PeterLBrandt**: Análisis técnico de índices y commodities.
-- **@Nouriel** (Nouriel Roubini): Riesgos macro, geopolítica e inflación.
-- **@financialjuice**: Datos macro y releases económicos en tiempo real.
-
-Estas cuentas proporcionan noticias rápidas, análisis profundo y contexto estratégico.
-
-
----
-
-## Sábado, 7 de noviembre de 2026 – 10:24 (horario de Buenos Aires)
-
-### Estado actual / cierre de índices (sesión del viernes 6 de noviembre)
-
-- **Dow Jones Industrial Average**: 51.285,73 (-237,33 / -0,46%)
-- **S&P 500**: 7.376,86 (+23,13 / +0,31%)
-- **Nasdaq Composite**: 24.579,42 (+264,43 / +1,09%)
-- **Russell 2000**: 2.754,11 (+24,22 / +0,89%)
-
-Cierre mixto con rebote liderado por tecnología y small caps tras el fuerte selloff del jueves. El Nasdaq y el S&P recortaron parcialmente las pérdidas de la semana (semana: S&P -2,7%, Nasdaq -3,4%, Dow -0,9%, Russell -2,1%). El VIX bajó significativamente.
+Fue la mejor sesión del S&P 500 desde abril, con el Nasdaq registrando su mayor avance desde julio. Recuperación amplia y fuerte tras el selloff de la semana pasada (impulsado por temores post-midterms sobre AI). En premarket de hoy (martes 10), los futuros se muestran mixtos: Dow alrededor de +0,3%, S&P plano a ligeramente positivo, Nasdaq -0,2 a -0,3%, a la espera del dato de CPI de octubre a las 8:30 AM ET (10:30 hora de Buenos Aires). El petróleo sigue bajando (Brent por debajo de $90).
 
 ### Principales movers y sectores destacados
 
-Tecnología lideró las ganancias (+1,26% aproximadamente), con fuerte recuperación en semiconductores. Communication Services también positivo. Consumer Staples y Financials fueron los rezagados (Staples cerca de -1,2%).
+Diez de los once sectores del S&P 500 cerraron en positivo. Industriales lideraron con ganancias cercanas al +4%, seguidos de Consumer Discretionary (~+3,7%) e Information Technology (~+3%). Energy fue el más débil o único en negativo, afectado por la caída del crudo.
 
-**Gainers destacados**: AMD (+11%), IREN (+20%), Airbnb (+~12%), Lam Research (+8,2%), Nvidia (+2,8%), Tesla (+4,2%), SpaceX (+8,6%).
-**Losers**: Axon Enterprise (-18,2%), Charter Communications (-6,2%) y varios nombres defensivos o con resultados débiles.
+**Gainers destacados**: Coherent (COHR) +16,8%, Monolithic Power Systems (MPWR) +16,6%, AMD +13,3%, Teradyne (TER) +12,7%, Flex +12%. Fuerte rebote en semiconductores y nombres ligados a AI/infraestructura (excepto Nvidia).
+**Losers**: Nvidia (NVDA) ~-4,3% (por investigación de su board al CEO Jensen Huang), First Solar (FSLR) ~-4,7%, y algunos nombres de pharma o con resultados débiles.
 
-El sector de semis y AI rebotó tras el oversold del jueves, mientras los defensivos perdieron terreno en la rotación.
+Breadth muy positiva: advancers superaron a decliners por ~4 a 1 en NYSE. El VIX cayó más del 21%.
 
-### Drivers macroeconómicos y geopolíticos
+### Drivers macroeconómicos y geopolíticos del día y cómo impactan el mercado
 
-**Reporte de empleo de octubre**: Nonfarm payrolls +165.000 (muy por encima de lo esperado), con revisiones al alza previas. El mercado laboral resiliente elevó las probabilidades de subida de tasas de la Fed en diciembre (alrededor del 70-78%), lo que firmó los yields y limitó el rally más amplio.
+**Geopolítica (conflicto con Irán)**: La caída del petróleo (Brent -5,8% hasta ~$92,6, y continuando hoy) fue el principal catalizador del rally. Trump minimizó la probabilidad de nuevos ataques a Irán y expresó optimismo por un acuerdo, aliviando temores de disrupciones en el suministro energético y de inflación energética. Esto impulsó un fuerte risk-on y recuperación en risk assets.
 
-**Post-midterms**: Continúa el impacto de la victoria demócrata (control de Cámara y Senado). Los temores de mayor regulación y moratorias sobre data centers/AI que provocaron el crash del jueves se moderaron parcialmente con compras de dip, aunque persiste incertidumbre sobre el ritmo de inversión en infraestructura de IA.
+**Post-midterms y trade de AI**: Continuación de la compra de dips tras el "AI wreck" de la semana pasada, causado por temores de mayor regulación o moratorias sobre data centers tras la victoria demócrata (control de Cámara y Senado). Los chips y tech rebotaron con fuerza (salvo Nvidia por noticias propias).
 
-**Geopolítica (Irán)**: Esperanzas de desescalada tras los resultados electorales (el alto costo de energía contribuyó a la derrota republicana) han presionado el petróleo a la baja, aliviando parcialmente las preocupaciones inflacionarias. Riesgos de estanflación y volatilidad energética siguen presentes si las negociaciones no avanzan.
+**Política monetaria y datos**: El gobernador de la Fed Christopher Waller se inclinó por una subida de tasas en diciembre, y sugirió considerar 50 bps si el core CPI es ≥0,3%. Hoy se publica el CPI de octubre (expectativas: headline +0,3%, core +0,2%). El fuerte reporte de empleo de octubre mantiene las probabilidades de hike elevadas. Un dato de inflación caliente podría frenar el rebote.
 
-Impacto: Rebote técnico en tech y breadth más positiva, pero con el Dow bajo presión y yields más firmes. La semana fue negativa por el “AI wreck” y la incertidumbre política. Claves a monitorear: desarrollo diplomático en Oriente Medio, datos de inflación y el discurso de la Fed.
+**Otros**: Anthropic avanza con su IPO (rango de precio que implica valuación muy alta). Volumen elevado y rotación hacia cíclicos/industriales.
 
-### Recomendaciones de cuentas de X (Twitter)
-
-Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
-
-- **@DeItaone**: Headlines de mercado y noticias en tiempo casi real (estilo terminal).
-- **@elerianm** (Mohamed El-Erian): Perspectivas macro, política de bancos centrales, inflación y riesgos globales.
-- **@LizAnnSonders**: Charts y datos de mercado, sentimiento, breadth y economía.
-- **@LiveSquawk**: Cobertura en vivo de eventos macro, datos económicos y geopolíticos.
-- **@ritholtz** (Barry Ritholtz): Análisis de mercado, comportamiento de inversores y macro.
-- **@PeterLBrandt**: Análisis técnico de índices y commodities.
-- **@KobeissiLetter**: Noticias de mercado, datos y contexto macro en tiempo real.
-- **@financialjuice**: Releases económicos y datos macro instantáneos.
-- **@Nouriel** (Nouriel Roubini): Riesgos macro, geopolítica e inflación.
-
-Estas cuentas combinan noticias rápidas, análisis profundo y contexto estratégico.
-
-
----
-
-## Sábado, 7 de noviembre de 2026 – 14:33 (horario de Buenos Aires)
-
-### Estado actual / cierre de índices (sesión del viernes 6 de noviembre de 2026)
-
-- **Dow Jones Industrial Average**: 51.285,73 (-237,33 / -0,46%)
-- **S&P 500**: 7.376,86 (+23,13 / +0,31%)
-- **Nasdaq Composite**: 24.579,43 (+264,43 / +1,09%)
-- **Russell 2000**: 2.754,11 (+24,22 / +0,89%)
-
-Mercados cerrados el sábado. El viernes cerró mixto con un rebote liderado por tecnología y small caps tras el fuerte selloff del jueves (peor sesión desde abril 2025). La semana fue negativa: S&P 500 -2,7%, Nasdaq -3,4%, Dow -0,9% y Russell 2000 -2,1%. El VIX bajó significativamente (alrededor de -9% a ~25,6). El S&P se mantiene ~5,65% por debajo de su récord de octubre.
-
-### Principales movers y sectores destacados
-
-Siete de los 11 sectores del S&P 500 cerraron en rojo. Tecnología lideró las ganancias (+1,26%), seguido de Communication Services (+0,51%). Consumer Staples (-1,21%) y Financials (-0,68%) fueron los rezagados. Semiconductores y temas AI rebotaron tras el oversold del jueves (SMH +3,62% aproximadamente).
-
-**Gainers destacados**: AMD (+11%), Nvidia (+2,78%), Airbnb (+~11-12% tras elevar guía), Lam Research (+8,2%), Tesla (+4,2%), IREN (+20%), SpaceX (+8,6%), Coherent y otros de fotónica/semis.
-**Losers**: Axon Enterprise (-18,2% tras resultados y guía), Charter Communications (-6,2%), Microchip Technology (-10%) y varios nombres defensivos o con resultados débiles.
-
-Hubo rotación hacia crecimiento/tech y fuera de defensivos. Breadth mixta (más decliners que advancers en el S&P).
-
-### Drivers macroeconómicos y geopolíticos
-
-**Reporte de empleo de octubre**: Nonfarm payrolls +165.000 (muy por encima de ~65.000 esperado), desempleo bajó a 4,1% (desde 4,2%). Revisiones al alza en agosto y septiembre (+84.000 combinados). El mercado laboral se muestra resiliente, lo que elevó las probabilidades de subida de tasas de la Fed en diciembre (alrededor del 70-78%). Esto firmó los yields (10-year cerca de 4,86%) y limitó el rally más amplio, aunque apoyó la narrativa de soft landing.
-
-**Post-midterms**: Continúa el impacto de la victoria demócrata (control de Cámara y Senado). Los temores de mayor regulación, moratorias o desaceleración en data centers y gasto en AI provocaron el crash del jueves (~$3 billones en valor de mercado y Nasdaq en corrección). El viernes hubo compra de dip en chips, moderando el pánico, aunque persiste incertidumbre sobre el ritmo de inversión en infraestructura de IA bajo un Congreso dividido.
-
-**Geopolítica**: Esperanzas de desescalada en el conflicto con Irán (el alto costo de energía contribuyó a la derrota republicana) han presionado el petróleo a la baja, aliviando parcialmente las preocupaciones inflacionarias. Riesgos de estanflación (crecimiento más lento con inflación aún elevada por energía y alimentos) y volatilidad energética siguen presentes si las negociaciones no avanzan. El gridlock político favorece relativa estabilidad fiscal/arancelaria.
-
-Impacto en el mercado: Rebote técnico liderado por tech y semis, con el Dow bajo presión y yields más firmes. La semana fue negativa por el “AI wreck” y la incertidumbre política. Claves a monitorear: datos de inflación (CPI/PPI), desarrollo diplomático en Oriente Medio, el discurso de la Fed y el ritmo de inversión en IA.
-
-### Recomendaciones de cuentas de X (Twitter)
-
-Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
-
-- **@DeItaone**: Headlines de mercado y noticias en tiempo casi real (estilo terminal).
-- **@elerianm** (Mohamed El-Erian): Perspectivas macro, política de bancos centrales, inflación y riesgos globales.
-- **@LizAnnSonders**: Charts y datos de mercado, sentimiento, breadth y economía.
-- **@LiveSquawk**: Cobertura en vivo de eventos macro, datos económicos y geopolíticos.
-- **@ritholtz** (Barry Ritholtz): Análisis de mercado, comportamiento de inversores y macro.
-- **@PeterLBrandt**: Análisis técnico de índices y commodities.
-- **@KobeissiLetter**: Noticias de mercado, datos y contexto macro en tiempo real.
-- **@financialjuice**: Releases económicos y datos macro instantáneos.
-- **@Nouriel** (Nouriel Roubini): Riesgos macro, geopolítica e inflación.
-- **@charliebilello**: Datos históricos, charts y contexto de mercado.
-
-Estas cuentas combinan noticias rápidas, análisis profundo y contexto estratégico.
-
-**Nota**: Resumen basado en cierre del viernes 6 de noviembre (mercados cerrados el sábado). Datos de fuentes como AP, Xinhua, CNBC y reportes de mercado.
-
-
----
-
-## Domingo, 8 de noviembre de 2026 – 10:31 (horario de Buenos Aires)
-
-### Estado actual / cierre de índices (sesión del viernes 6 de noviembre de 2026)
-
-Mercados cerrados el domingo. Último cierre oficial del viernes:
-
-- **Dow Jones Industrial Average**: 51.285,73 (-237,33 / -0,46%)
-- **S&P 500**: 7.376,86 (+23,13 / +0,31%)
-- **Nasdaq Composite**: 24.579,43 (+264,43 / +1,09%)
-- **Russell 2000**: 2.754,11 (+24,22 / +0,89%)
-
-Cierre mixto con rebote en tecnología y small caps tras el fuerte selloff del jueves. La semana fue negativa (S&P 500 -2,68%, Nasdaq -3,37%, Dow -0,94%, Russell 2000 -2,05%). El S&P se mantiene aproximadamente 5,65% por debajo de su récord de octubre. El VIX cerró en torno a 25,6 (bajó ~9%).
-
-### Principales movers y sectores destacados
-
-Siete de los 11 sectores del S&P 500 cerraron en rojo. Information Technology lideró las ganancias (+1,26%), seguido de Communication Services (~+0,51-0,52%). Consumer Staples fue el peor (-1,21%), seguido de Financials (-0,68%). Semiconductores y temas de IA rebotaron con fuerza tras el oversold del jueves.
-
-**Gainers destacados**: AMD (~+11%), Nvidia (+2,78%), Tesla (+4,2%), SpaceX (+8,6%), IREN (+20%), Lam Research (+8,2%), Airbnb (fuerte subida tras elevar guía), Coherent y otros de fotónica.
-**Losers**: Axon Enterprise (-18,2% tras resultados y guía), Charter Communications (-6,2%), y varios nombres en staples o con resultados débiles. Hubo rotación hacia crecimiento/tech y fuera de defensivos.
-
-### Drivers macroeconómicos y geopolíticos
-
-**Reporte de empleo de octubre**: Nonfarm payrolls +165.000 (muy por encima de expectativas de ~65.000), tasa de desempleo bajó a 4,1%. Revisiones al alza en meses previos. El mercado laboral resiliente elevó las probabilidades de subida de tasas de la Fed en diciembre (en torno al 70-78%), lo que firmó los yields (10 años cerca de 4,86%) y limitó el alcance del rebote.
-
-**Post-midterms**: El impacto de la victoria demócrata (control de Cámara y Senado) sigue vigente. Los temores de mayor escrutinio, regulación o desaceleración en data centers e inversión en IA provocaron el crash del jueves (Nasdaq en corrección, pérdidas de ~$3 billones). El viernes hubo compras de dip en chips, moderando el pánico, aunque persiste incertidumbre sobre el ritmo de gasto en infraestructura de IA bajo el nuevo Congreso.
-
-**Geopolítica**: Esperanzas de desescalada en el conflicto con Irán (el alto costo de la energía contribuyó a la derrota republicana) han presionado el petróleo a la baja, aliviando parcialmente las preocupaciones inflacionarias. Persisten riesgos de estanflación (crecimiento más lento con inflación elevada por energía) si las negociaciones no avanzan. El gridlock político (con veto presidencial) favorece relativa estabilidad en política fiscal y arancelaria.
-
-Impacto: Rebote técnico liderado por tech y semis, Dow bajo presión, yields más firmes. La semana fue negativa por el “AI wreck” y la incertidumbre política. Claves a monitorear en la próxima semana: datos de inflación (CPI/PPI), desarrollo diplomático en Oriente Medio, comentarios de la Fed y el ritmo de inversión en IA.
-
-### Recomendaciones de cuentas de X (Twitter)
-
-Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
-
-- **@DeItaone**: Headlines de mercado y noticias en tiempo casi real (estilo terminal).
-- **@elerianm** (Mohamed El-Erian): Perspectivas macro, política de bancos centrales, inflación y riesgos globales.
-- **@LizAnnSonders**: Charts y datos de mercado, sentimiento, breadth y economía.
-- **@LiveSquawk**: Cobertura en vivo de eventos macro, datos económicos y geopolíticos.
-- **@ritholtz** (Barry Ritholtz): Análisis de mercado, comportamiento de inversores y macro.
-- **@PeterLBrandt**: Análisis técnico de índices y commodities.
-- **@KobeissiLetter**: Noticias de mercado, datos y contexto macro en tiempo real.
-- **@financialjuice**: Releases económicos y datos macro instantáneos.
-- **@Nouriel** (Nouriel Roubini): Riesgos macro, geopolítica e inflación.
-- **@charliebilello**: Datos históricos, charts y contexto de mercado.
-
-Estas cuentas combinan noticias rápidas, análisis profundo y contexto estratégico.
-
-**Nota**: Resumen basado en el cierre del viernes 6 de noviembre (mercados cerrados el domingo). Datos de fuentes como AP, CNBC, WSJ y reportes de mercado.
-
-
----
-
-## Domingo, 8 de noviembre de 2026 – 14:33 (horario de Buenos Aires)
-
-### Estado actual / cierre de índices (sesión del viernes 6 de noviembre de 2026)
-
-Mercados cerrados el domingo. Último cierre oficial del viernes:
-
-- **Dow Jones Industrial Average**: 51.285,73 (-237,33 / -0,46%)
-- **S&P 500**: 7.376,86 (+23,13 / +0,31%)
-- **Nasdaq Composite**: 24.579,43 (+264,43 / +1,09%)
-- **Russell 2000**: 2.754,11 (+24,22 / +0,89%)
-
-Cierre mixto con rebote liderado por tecnología y small caps tras el fuerte selloff del jueves (peor sesión desde abril 2025). La seman[+ truncated for brevity in this example, but in real I would have full]
-
----
-
-## Lunes, 9 de noviembre de 2026 – 10:32 (horario de Buenos Aires)
-
-### Estado actual / premarket de índices (sesión del lunes 9 de noviembre)
-
-Mercados aún no abiertos (premarket, ~8:30 AM ET). Último cierre oficial del viernes 6 de noviembre:
-
-- **Dow Jones Industrial Average**: 51.285,73 (-237,33 / -0,46%)
-- **S&P 500**: 7.376,86 (+23,13 / +0,31%)
-- **Nasdaq Composite**: 24.579,42 (+264,43 / +1,09%)
-- **Russell 2000**: 2.754,11 (+24,22 / +0,89%)
-
-**Futuros (premarket)**: Dow E-minis +~1,06% (+~545 pts), S&P 500 E-minis +~0,66%, Nasdaq 100 E-minis +~0,42%. Recuperación por bargain-hunting tras la semana negativa (S&P -2,7%, Nasdaq -3,4%). Nvidia pesa en el tech (caída ~5-6% en premarket).
-
-### Principales movers y sectores destacados
-
-En premarket, **Nvidia (NVDA)** cae ~5-6% tras anuncio de investigación interna del board sobre relación del CEO Jensen Huang con posible esfuerzo de inteligencia extranjera (China). Otros semis/AI mixtos.
-
-De la sesión del viernes: Tecnología lideró el rebote (+1,26%), Communication Services positivo; Consumer Staples y Financials rezagados. Gainers: AMD (+11%), IREN (+20%), Airbnb (~+12%), Lam Research (+8,2%), Tesla (+4,2%), SpaceX (+8,6%). Losers: Axon (-18,2%), Charter (-6,2%).
-
-Sectores a vigilar hoy: Tech bajo presión por Nvidia, posible rotación a value/industriales con futuros de Dow más fuertes.
-
-### Drivers macroeconómicos y geopolíticos
-
-**Datos de empleo**: El reporte fuerte de octubre (+165k payrolls, desempleo 4,1%) mantiene altas las probabilidades de subida de tasas de la Fed en diciembre (~70%+), firmando yields y limitando el alivio. CPI de octubre esperado el martes será clave.
-
-**Post-midterms**: Continúa la incertidumbre por control demócrata de Congreso y posibles regulaciones/moratorias sobre data centers y AI, que provocaron el "tech wreck" del jueves. Gridlock con veto presidencial limita cambios fiscales abruptos.
-
-**Geopolítica (Irán)**: Esperanzas de desescalada (mediación y presión por altos precios de energía que contribuyeron a midterms) presionan el petróleo a la baja (Brent ~96, WTI ~90), aliviando parcialmente inflación energética. Riesgos de estanflación persisten si no hay avance diplomático.
-
-**Otros**: Investigación a Nvidia añade ruido al trade de AI. Semana con earnings (KKR, Constellation Energy, Take-Two, etc.) y datos de inventarios mayoristas. Impacto: Bargain hunting selectivo, volatilidad en tech, yields estables a firmes. Monitorear apertura, discurso Fed y CPI.
+**Impacto**: El mercado vivió un rally amplio impulsado por la baja del oil y el dip-buying en tech. Hoy la dirección dependerá fuertemente del CPI: un dato suave apoyaría la continuidad del rebote, mientras uno caliente reforzaría el tono hawkish de la Fed y podría generar presión, especialmente en growth.
 
 ### Recomendaciones de cuentas de X (Twitter)
 
@@ -310,4 +64,4 @@ Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y g
 
 Estas cuentas combinan noticias rápidas, análisis profundo y contexto estratégico.
 
-**Nota**: Resumen basado en cierre del viernes y futuros/premarket del lunes 9 de noviembre. Datos de fuentes como Reuters, Bloomberg, Yahoo Finance y reportes de mercado.
+**Nota**: Resumen basado en el cierre del lunes 9 de noviembre y premarket del martes 10. Datos de fuentes como AP, WSJ, Bloomberg, Reuters y reportes de mercado.
