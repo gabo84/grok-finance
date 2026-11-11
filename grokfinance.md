@@ -113,3 +113,55 @@ Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y g
 Estas cuentas ofrecen una combinación de velocidad, análisis profundo y contexto estratégico.
 
 **Nota**: Resumen basado en el cierre del martes 10 de noviembre y premarket del miércoles 11. Datos de fuentes como AP, Reuters, Yahoo Finance, CNBC, Economic Times y reportes de mercado.
+
+---
+
+## Miércoles, 11 de noviembre de 2026 – 14:33 (horario de Buenos Aires)
+
+### Estado actual de índices (sesión en curso, ~12:30 PM EST / 14:30 ART)
+
+- **Dow Jones Industrial Average**: ~52.347 (+0,22%)
+- **S&P 500**: ~7.630 (+1,45%)
+- **Nasdaq Composite**: ~25.602 (+2,14%)
+- **Russell 2000**: ~2.843 (+0,77%)
+
+Los mercados de acciones operan normalmente en Veterans Day (bonos cerrados). El Nasdaq lidera con fuerza, impulsado por el sector tecnológico. El VIX cayó ~8,5% a ~17,80. Breadth positiva (advancers superan a decliners ~1,5 a 1). El yield del 10-year se mantiene cerca de 5,00% (+1 bp).
+
+### Principales movers y sectores destacados
+
+Technology es el sector más fuerte (+3,46% o más), seguido de Telecommunications e Industrials. Consumer Cyclical entre los más débiles. 
+
+**Gainers destacados**: Gevo (GEVO) +~31%, CoreWeave (CRWV) +~25% tras resultados sólidos y guidance elevado (demanda de AI compute "overwhelming", capacidad sold out). Nvidia (NVDA) +~4,4% (recuperación tras el drama del CEO). Chips y neoclouds (Nebius, etc.) al alza. NVIDIA más activo por volumen.
+
+**Losers**: Suja Life (SUJA) ~-15%, y algunos nombres de consumer/cyclical.
+
+El rebote en AI/infraestructura está dominando la sesión.
+
+### Drivers macroeconómicos y geopolíticos del día y cómo impactan el mercado
+
+**Macro (inflación y Fed)**: Continuación del impacto del CPI de octubre más caliente de lo esperado (+0,4% headline, +0,3% core). Probabilidades de hike de la Fed en diciembre elevadas (~90%, con especulación de 50 bps). Mercado de bonos cerrado hoy, pero yields altos limitan upside en valuaciones de growth. Sin embargo, el mercado prioriza el momentum de earnings de AI.
+
+**Geopolítica**: Post-midterms (barrido demócrata), persistente preocupación por posible regulación o moratorias sobre data centers y AI infra. Conflicto con Irán sigue influyendo en oil (Brent alrededor de $88-93, con volatilidad). Optimismo parcial por posible desescalada. US-China: tono de "de-risk, not decouple".
+
+**Impacto**: El fuerte rebote en tech/AI (liderado por CoreWeave earnings y recuperación de NVDA) está superando los vientos en contra de tasas más altas y riesgos geopolíticos/regulatorios. Sesión risk-on en growth, con Dow más moderado. Riesgo principal: persistencia de inflación y política hawkish de la Fed, que podría pesar en valuaciones si no hay más catalizadores positivos.
+
+### Recomendaciones de cuentas de X (Twitter)
+
+Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
+
+- **@DeItaone**: Headlines de mercado y noticias en tiempo casi real (estilo terminal).
+- **@elerianm** (Mohamed El-Erian): Perspectivas macro, política de bancos centrales, inflación y riesgos globales.
+- **@LizAnnSonders**: Charts y datos de mercado, sentimiento, breadth y economía.
+- **@LiveSquawk**: Cobertura en vivo de eventos macro, datos económicos y geopolíticos.
+- **@KobeissiLetter**: Noticias de mercado, datos y contexto macro en tiempo real.
+- **@financialjuice**: Releases económicos y datos macro instantáneos.
+- **@charliebilello**: Datos históricos, charts y contexto de mercado.
+- **@PeterLBrandt**: Análisis técnico de índices y commodities.
+- **@Nouriel** (Nouriel Roubini): Riesgos macro, geopolítica e inflación.
+- **@ritholtz** (Barry Ritholtz): Análisis de mercado, comportamiento de inversores y macro.
+- **@business** (Bloomberg): Noticias globales de negocios y mercados.
+- **@WSJ**: Reportes profundos de mercado y economía.
+
+Estas cuentas combinan noticias rápidas, análisis profundo y contexto estratégico.
+
+**Nota**: Resumen basado en datos intradía del miércoles 11 de noviembre (~12:30 PM EST). Fuentes: MetaCap, MarketWatch, Yahoo Finance, CNBC, Reuters y reportes de mercado. Los niveles son aproximados y pueden variar hasta el cierre.
