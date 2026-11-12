@@ -165,3 +165,57 @@ Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y g
 Estas cuentas combinan noticias rápidas, análisis profundo y contexto estratégico.
 
 **Nota**: Resumen basado en datos intradía del miércoles 11 de noviembre (~12:30 PM EST). Fuentes: MetaCap, MarketWatch, Yahoo Finance, CNBC, Reuters y reportes de mercado. Los niveles son aproximados y pueden variar hasta el cierre.
+
+---
+
+## Jueves, 12 de noviembre de 2026 – 14:33 (horario de Buenos Aires)
+
+### Estado actual de índices (sesión en curso, ~13:30 PM EST / 15:30 ART aproximadamente)
+
+- **Dow Jones Industrial Average**: ~52.660 (+0,33% a +0,47%)
+- **S&P 500**: ~7.627 a 7.650 (+0,08% a +0,40%)
+- **Nasdaq Composite**: ~25.450 a 25.577 (-0,05% a +0,44%)
+- **Russell 2000**: ~2.825 a 2.829 (-0,60% a -0,80%)
+
+Los índices operan de forma mixta. El Dow y el S&P muestran modestas ganancias, mientras el Nasdaq está bajo presión por la debilidad de Nvidia y el Russell 2000 (small caps) lidera las pérdidas. El VIX se mantiene alrededor de 17,6-17,7. El yield del 10-year se sitúa por encima del 5% (cerca de 5,07-5,10%). Breadth negativa (más decliners que advancers).
+
+### Principales movers y sectores destacados
+
+Energy lidera las ganancias sectoriales (~+1,25%), impulsado por el rebote del petróleo. Basic Materials es el más débil (~-1,70%). Technology está mixto: presión fuerte en Nvidia, pero alzas en rivales.
+
+**Losers destacados**: Nvidia (NVDA) ~-5,5% a -8% o más (drama del CEO; caídas intradiarias fuertes). CoreWeave (CRWV) y otros neoclouds bajo presión. Alibaba y nombres ligados a China débiles.
+
+**Gainers destacados**: Broadcom (AVGO) ~+5%, AMD ~+4%, Alphabet (GOOGL) y otros megacaps tech selectivos al alza. Algunos nombres de energy y small caps especulativos (ej. Polibeli Group) con fuertes avances.
+
+El volumen está concentrado en NVDA, que es el más activo. La rotación favorece energy y algunos value/cíclicos sobre pure AI/growth.
+
+### Drivers macroeconómicos y geopolíticos del día y cómo impactan el mercado
+
+**Nvidia / AI leadership**: El principal driver es la renuncia o potencial ouster del CEO Jensen Huang tras reportes de asuntos personales y una investigación del board (incluyendo alegaciones de relación con una mujer sospechosa de espionaje para China). CFO Colette Kress asume como interim CEO. Esto genera riesgo-off en el trade de AI, temor a que Nvidia reduzca su apoyo financiero a clientes de infraestructura (neoclouds) y presión sobre valuaciones. Rivales como Broadcom y AMD se benefician por posible share gain. El sector tech/AI está fragmentado.
+
+**Política monetaria**: Continuación de las expectativas de subida de tasas de la Fed en diciembre (probabilidades elevadas, incluso charla de 50 bps) tras el CPI de octubre más caliente y comentarios hawkish. Yields del Treasury por encima del 5% pesan en growth y small caps (Russell). El dólar sigue fuerte.
+
+**Geopolítica**: Comentarios de Trump sobre Irán (sin necesidad de deal inmediato) impulsan un rebote del oil, beneficiando energy. Persisten tensiones en Medio Oriente y post-midterms (barrido demócrata) con temores de mayor regulación sobre AI/data centers. US-China: riesgos de restricciones tecnológicas adicionales.
+
+**Impacto**: Sesión mixta y de cautela. El drama de Nvidia limita el upside del Nasdaq y genera volatilidad en AI, mientras energy y el Dow sostienen. Los yields altos y la incertidumbre de liderazgo en el “Bank of AI” frenan el risk-on amplio. Small caps sufren más por tasas. El mercado digiere el shock de leadership en medio de un entorno de tasas altas y geopolítica volátil.
+
+### Recomendaciones de cuentas de X (Twitter)
+
+Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
+
+- **@DeItaone**: Headlines de mercado y noticias en tiempo casi real (estilo terminal).
+- **@elerianm** (Mohamed El-Erian): Perspectivas macro, política de bancos centrales, inflación y riesgos globales.
+- **@LizAnnSonders**: Charts y datos de mercado, sentimiento, breadth y economía.
+- **@LiveSquawk**: Cobertura en vivo de eventos macro, datos económicos y geopolíticos.
+- **@KobeissiLetter**: Noticias de mercado, datos y contexto macro en tiempo real.
+- **@financialjuice**: Releases económicos y datos macro instantáneos.
+- **@charliebilello**: Datos históricos, charts y contexto de mercado.
+- **@PeterLBrandt**: Análisis técnico de índices y commodities.
+- **@Nouriel** (Nouriel Roubini): Riesgos macro, geopolítica e inflación.
+- **@ritholtz** (Barry Ritholtz): Análisis de mercado, comportamiento de inversores y macro.
+- **@business** (Bloomberg): Noticias globales de negocios y mercados.
+- **@WSJ**: Reportes profundos de mercado y economía.
+
+Estas cuentas combinan noticias rápidas, análisis profundo y contexto estratégico.
+
+**Nota**: Resumen basado en datos intradía del jueves 12 de noviembre (~13:30-14:30 ART). Fuentes: MetaCap, INDmoney, Reuters, Investing.com, Yahoo Finance y reportes de mercado. Los niveles son aproximados y pueden variar hasta el cierre.
