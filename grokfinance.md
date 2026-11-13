@@ -219,3 +219,58 @@ Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y g
 Estas cuentas combinan noticias rápidas, análisis profundo y contexto estratégico.
 
 **Nota**: Resumen basado en datos intradía del jueves 12 de noviembre (~13:30-14:30 ART). Fuentes: MetaCap, INDmoney, Reuters, Investing.com, Yahoo Finance y reportes de mercado. Los niveles son aproximados y pueden variar hasta el cierre.
+
+---
+
+## Viernes, 13 de noviembre de 2026 – 10:30 (horario de Buenos Aires)
+
+### Estado actual / cierre de índices (sesión del jueves 12 de noviembre)
+
+- **Dow Jones Industrial Average**: 52.297,09 (-189,40 / -0,36%)
+- **S&P 500**: 7.592,40 (-26,98 / -0,35%)
+- **Nasdaq Composite**: 25.366,09 (-100,10 / -0,39%)
+- **Russell 2000**: 2.799,06 (-47,20 / -1,66%)
+
+Los índices cerraron en baja tras una sesión volátil. En premarket de hoy (viernes 13), los futuros se muestran ligeramente positivos a mixtos: Dow futures ~+0,2% a +0,25%, S&P 500 futures ~+0,2% a +0,3%, Nasdaq 100 futures plano a -0,1%. El mercado digiere el shock de Nvidia y espera el PPI de octubre a las 8:30 AM ET.
+
+### Principales movers y sectores destacados
+
+Energy lideró con ganancias de ~+1,5% (impulsado por alza del petróleo), mientras Materials fue el más débil (~-1,5%). Communication Services ligeramente positivo. El resto de sectores en rojo, con Industrials, Financials y Health Care entre los más débiles. Small caps (Russell) sufrieron la mayor caída por yields altos.
+
+**Losers destacados**: Nvidia (NVDA) ~-4% a -5% (tras renuncia de Jensen Huang; caídas intradiarias de hasta -14%). Super Micro Computer (SMCI) ~-11%, CoreWeave (CRWV) bajo presión. Algunos nombres de materials y industrials débiles.
+**Gainers destacados**: AMD ~+5,9%, Broadcom (AVGO) ~+5,5%, Arista Networks fuerte. Nombres de energy al alza. En premarket, NVDA recuperando terreno (+1-2%).
+
+Breadth negativa: más decliners que advancers. VIX subiendo a ~18,7.
+
+### Drivers macroeconómicos y geopolíticos del día y cómo impactan el mercado
+
+**Nvidia / liderazgo AI**: La renuncia de Jensen Huang (tras reportes de asuntos personales y alegaciones de relación con posible espía china) fue el driver principal. CFO Colette Kress asume como interim. Genera "key man risk" en el trade de AI, temores de impacto en funding circular a neoclouds, y rotación hacia rivales (AMD, Broadcom). El sector tech/AI bajo presión selectiva.
+
+**Geopolítica y petróleo**: Trump indicó que no está interesado en un deal con Irán, impulsando oil (Brent cerca de $96). Beneficia Energy pero aumenta temores de inflación energética persistente. Tensiones en Medio Oriente continúan.
+
+**Política monetaria**: Continuación del impacto del CPI de octubre caliente (+0,4% headline). Expectativas de hike de Fed en diciembre altas (incluso charla de 50 bps). Yield del 10-year cerca o por encima de 5,05-5,10%, presionando growth y small caps. Hoy se publica PPI de octubre (expectativa ~+0,4%).
+
+**Otros**: Microsoft con outage global en Outlook/Teams, presionando acciones. Earnings de Cisco y Applied Materials positivos en AI spend.
+
+**Impacto**: Sesión de cautela y rotación. El shock de liderazgo en Nvidia limitó el upside del Nasdaq, mientras energy sostuvo. Yields altos y geopolítica volátil (Irán) pesan en risk assets. Hoy, el PPI y la evolución del drama de Nvidia determinarán si hay continuidad de la debilidad o rebote. El mercado mantiene resiliencia semanal a pesar de los shocks.
+
+### Recomendaciones de cuentas de X (Twitter)
+
+Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
+
+- **@DeItaone**: Headlines de mercado y noticias en tiempo casi real (estilo terminal).
+- **@elerianm** (Mohamed El-Erian): Perspectivas macro, política de bancos centrales, inflación y riesgos globales.
+- **@LizAnnSonders**: Charts y datos de mercado, sentimiento, breadth y economía.
+- **@LiveSquawk**: Cobertura en vivo de eventos macro, datos económicos y geopolíticos.
+- **@KobeissiLetter**: Noticias de mercado, datos y contexto macro en tiempo real.
+- **@financialjuice**: Releases económicos y datos macro instantáneos.
+- **@charliebilello**: Datos históricos, charts y contexto de mercado.
+- **@PeterLBrandt**: Análisis técnico de índices y commodities.
+- **@Nouriel** (Nouriel Roubini): Riesgos macro, geopolítica e inflación.
+- **@ritholtz** (Barry Ritholtz): Análisis de mercado, comportamiento de inversores y macro.
+- **@business** (Bloomberg): Noticias globales de negocios y mercados.
+- **@WSJ**: Reportes profundos de mercado y economía.
+
+Estas cuentas combinan noticias rápidas, análisis profundo y contexto estratégico.
+
+**Nota**: Resumen basado en el cierre del jueves 12 de noviembre y premarket del viernes 13. Datos de fuentes como WSJ, Reuters, Economic Times, MarketWatch, Benzinga y reportes de mercado.
