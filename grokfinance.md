@@ -246,13 +246,11 @@ Breadth negativa: más decliners que advancers. VIX subiendo a ~18,7.
 
 **Nvidia / liderazgo AI**: La renuncia de Jensen Huang (tras reportes de asuntos personales y alegaciones de relación con posible espía china) fue el driver principal. CFO Colette Kress asume como interim. Genera "key man risk" en el trade de AI, temores de impacto en funding circular a neoclouds, y rotación hacia rivales (AMD, Broadcom). El sector tech/AI bajo presión selectiva.
 
-**Geopolítica y petróleo**: Trump indicó que no está interesado en un deal con Irán, impulsando oil (Brent cerca de $96). Beneficia Energy pero aumenta temores de inflación energética persistente. Tensiones en Medio Oriente continúan.
+**Política monetaria**: Continuación de las expectativas de subida de tasas de la Fed en diciembre (probabilidades elevadas, incluso charla de 50 bps) tras el CPI de octubre más caliente y comentarios hawkish. Yields del Treasury por encima del 5% pesan en growth y small caps. El dólar sigue fuerte.
 
-**Política monetaria**: Continuación del impacto del CPI de octubre caliente (+0,4% headline). Expectativas de hike de Fed en diciembre altas (incluso charla de 50 bps). Yield del 10-year cerca o por encima de 5,05-5,10%, presionando growth y small caps. Hoy se publica PPI de octubre (expectativa ~+0,4%).
+**Geopolítica**: Comentarios de Trump sobre Irán (sin necesidad de deal inmediato) impulsan un rebote del oil, beneficiando energy. Persisten tensiones en Medio Oriente y post-midterms (barrido demócrata) con temores de mayor regulación sobre AI/data centers. US-China: riesgos de restricciones tecnológicas adicionales.
 
-**Otros**: Microsoft con outage global en Outlook/Teams, presionando acciones. Earnings de Cisco y Applied Materials positivos en AI spend.
-
-**Impacto**: Sesión de cautela y rotación. El shock de liderazgo en Nvidia limitó el upside del Nasdaq, mientras energy sostuvo. Yields altos y geopolítica volátil (Irán) pesan en risk assets. Hoy, el PPI y la evolución del drama de Nvidia determinarán si hay continuidad de la debilidad o rebote. El mercado mantiene resiliencia semanal a pesar de los shocks.
+**Impacto**: Sesión mixta y de cautela. El drama de Nvidia limita el upside del Nasdaq y genera volatilidad en AI, mientras energy y el Dow sostienen. Los yields altos y la incertidumbre de liderazgo en el “Bank of AI” frenan el risk-on amplio. Small caps sufren más por tasas. El mercado digiere el shock de leadership en medio de un entorno de tasas altas y geopolítica volátil.
 
 ### Recomendaciones de cuentas de X (Twitter)
 
@@ -274,3 +272,58 @@ Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y g
 Estas cuentas combinan noticias rápidas, análisis profundo y contexto estratégico.
 
 **Nota**: Resumen basado en el cierre del jueves 12 de noviembre y premarket del viernes 13. Datos de fuentes como WSJ, Reuters, Economic Times, MarketWatch, Benzinga y reportes de mercado.
+
+---
+
+## Viernes, 13 de noviembre de 2026 – 14:33 (horario de Buenos Aires)
+
+### Estado actual de índices (sesión en curso, ~12:30 PM EST / 14:30 ART)
+
+- **Dow Jones Industrial Average**: ~52.229 (-0,13%)
+- **S&P 500**: ~7.538 (-0,72%)
+- **Nasdaq Composite**: ~25.059 (-1,21%)
+- **Russell 2000**: ~2.781 (-0,64%)
+
+Los índices operan a la baja, con el Nasdaq liderando las pérdidas por el sell-off en semiconductores. El Dow se sostiene mejor. El VIX subió ~6% a ~19,8. El yield del 10-year se sitúa en ~5,13% (+3 bp). Breadth negativa.
+
+### Principales movers y sectores destacados
+
+Technology es el sector más débil (~-1,6% a -2,7%), mientras Communication Services lidera las ganancias (+3,58%). Consumer Defensive y Staples también al alza. Energy ligeramente positivo o plano.
+
+**Losers destacados**: Nvidia (NVDA) ~-3% (caídas por la salida de Jensen Huang; volumen muy alto). AMD ~-10%, Broadcom (AVGO) ~-7%, Intel, Micron y otros chips bajo fuerte presión. Virgin Galactic (SPCE) ~-25%, Candel Therapeutics y Vir Biotechnology entre los mayores decliners.
+
+**Gainers destacados**: Modine Manufacturing (MOD) ~+30% (reportes de posible adquisición por Samsung en cooling de data centers). SBC Medical Group ~+30%, Newsmax (NMAX) ~+28%, Liftoff Mobile ~+19%, Cerebras Systems (CBRS) al alza tras resultados y deals con hyperscalers.
+
+NVDA es el más activo por volumen. La presión se concentra en AI/semiconductores, con rotación hacia defensivos y algunos cíclicos.
+
+### Drivers macroeconómicos y geopolíticos del día y cómo impactan el mercado
+
+**Nvidia / liderazgo AI**: Continuación del shock por la renuncia de Jensen Huang (escándalos de asuntos personales y alegaciones relacionadas con China). CFO Colette Kress como interim CEO. Esto genera "key man risk", temores sobre el ciclo de AI y presión selectiva en el sector. Rivales y proveedores sufren contagio. Earnings de NVDA la próxima semana serán clave.
+
+**Inflación y Fed**: PPI de octubre +0,3% m/m (mejor de lo esperado 0,4%), pero anual +6,5% (máximo en años). Mantiene presión para hike de la Fed en diciembre (probabilidades altas, incluso especulación de 50 bps). Yields del 10-year cerca de 5,15-5,17% intradía. Pesan en valuaciones de growth y tech.
+
+**Geopolítica**: Trump reiteró que no necesita un deal con Irán, manteniendo el premium de riesgo en oil (WTI ~$88-89, poco cambiado hoy tras alzas previas). Tensiones en Medio Oriente persisten. Post-midterms (barrido demócrata), riesgos de mayor escrutinio regulatorio sobre AI y data centers.
+
+**Impacto**: Sesión risk-off liderada por tech/AI. El Dow más resiliente por composición. Yields altos y incertidumbre de liderazgo en Nvidia limitan rebotes. Small caps sufren. El mercado prioriza el shock de AI y el tono hawkish de la Fed sobre datos ligeramente mejores del PPI. Volatilidad elevada hacia el fin de semana.
+
+### Recomendaciones de cuentas de X (Twitter)
+
+Cuentas útiles para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
+
+- **@DeItaone**: Headlines de mercado y noticias en tiempo casi real (estilo terminal).
+- **@elerianm** (Mohamed El-Erian): Perspectivas macro, política de bancos centrales, inflación y riesgos globales.
+- **@LizAnnSonders**: Charts y datos de mercado, sentimiento, breadth y economía.
+- **@LiveSquawk**: Cobertura en vivo de eventos macro, datos económicos y geopolíticos.
+- **@KobeissiLetter**: Noticias de mercado, datos y contexto macro en tiempo real.
+- **@financialjuice**: Releases económicos y datos macro instantáneos.
+- **@charliebilello**: Datos históricos, charts y contexto de mercado.
+- **@PeterLBrandt**: Análisis técnico de índices y commodities.
+- **@Nouriel** (Nouriel Roubini): Riesgos macro, geopolítica e inflación.
+- **@ritholtz** (Barry Ritholtz): Análisis de mercado, comportamiento de inversores y macro.
+- **@zerohedge**: Noticias de mercado, macro y geopolítica en tiempo real, con enfoque en riesgos.
+- **@RaoulGMI** (Raoul Pal): Macro global, ciclos, liquidez y activos de riesgo.
+- **@MacroAlf**: Análisis macro profundo, ciclos de crédito y política monetaria.
+
+Estas cuentas combinan noticias rápidas, análisis profundo y contexto estratégico.
+
+**Nota**: Resumen basado en datos intradía del viernes 13 de noviembre (~12:30 PM EST). Fuentes: MetaCap, Yahoo Finance, MarketWatch, CNBC, Reuters y reportes de mercado. Los niveles son aproximados y pueden variar hasta el cierre.
