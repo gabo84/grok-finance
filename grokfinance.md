@@ -36,3 +36,36 @@ Solo cuentas de X para análisis de mercado, oportunidades, estrategias, macro y
 - @MacroAlf – Educación macro, ciclos de crédito y análisis cross-asset accionable.
 
 Estas cuentas ofrecen desde datos en tiempo real hasta frameworks macro y oportunidades de estrategias, ideales para seguir el pulso diario sin ruido excesivo.
+
+---
+
+## Lunes, 16 de noviembre de 2026 – 10:37 (horario de Buenos Aires)
+
+**Pulso del mercado americano (preapertura del lunes 16 de noviembre de 2026 – mercados aún no abiertos)**
+
+**Índices principales (cierre del viernes 13 de noviembre):**
+- **Dow Jones Industrial Average**: 52.347,55 (+0,10% / +50,46 puntos)
+- **S&P 500**: 7.561,67 (-0,40% / -30,73 puntos)
+- **Nasdaq Composite**: 25.136,27 (-0,91% / -229,82 puntos)
+- **Russell 2000**: 2.790,49 (-0,31% / -8,57 puntos)
+
+Los futuros apuntan a una apertura a la baja, con el Nasdaq 100 más débil (caídas cercanas al 1-1,5%) y el S&P 500 también en rojo, mientras el Dow se mantiene más cerca del plano.<grok type="render_inline_citation" citation_id="11" />
+
+**Principales movers y sectores destacados:**
+El foco está en el sector tecnológico y semiconductores. Nvidia (NVDA) cotiza a la baja en premarket (alrededor del -2% a -4%), arrastrando a pares como AMD, Broadcom y Micron. El índice PHLX Semiconductor sigue bajo presión. En el cierre del viernes, Technology fue el peor sector, mientras Energy y Consumer Staples mostraron relativa fortaleza. En premarket aparecen movers especulativos, pero el volumen real y la dirección del día dependerán de la apertura y de los flujos hacia AI.<grok type="render_inline_citation" citation_id="0" />
+
+**Drivers macroeconómicos y geopolíticos del día y su impacto:**
+El principal catalizador es la semana de alto riesgo para el trade de IA: earnings de Nvidia el martes (primera post-renuncia de Jensen Huang, con Colette Kress como CEO interina) y la esperada IPO de Anthropic (valuación objetivo ~1,4 billones de dólares, posiblemente el jueves). La incertidumbre por el liderazgo de Nvidia y las preocupaciones sobre compliance de exportaciones a China siguen pesando. Los yields del Treasury 10 años se mantienen elevados (~5,14-5,15%), limitando el múltiplo de crecimiento. En geopolítica, las tensiones en el Estrecho de Ormuz y el conflicto en Irán mantienen un premio en el petróleo y riesgo inflacionario residual, aunque el crudo ha cedido levemente. El impacto neto es aversión al riesgo en tech de alto beta, con rotación relativa hacia defensivos o value, y VIX al alza por encima de 20.<grok type="render_inline_citation" citation_id="66" />
+
+**Recomendaciones de cuentas de X (Twitter) útiles:**
+Solo cuentas de X para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
+- @LizAnnSonders – Charts diarios, breadth, datos y macro clara.
+- @elerianm (Mohamed El-Erian) – Política monetaria, inflación, geopolítica y mercados globales.
+- @KobeissiLetter – Headlines de mercado, datos y eventos de riesgo en tiempo real.
+- @DeItaone – Noticias ultra-rápidas que mueven precios.
+- @MacroAlf – Frameworks macro, ciclos de crédito y cross-asset accionables.
+- @ritholtz (Barry Ritholtz) – Análisis equilibrado e histórico de mercados.
+- @Nouriel (Nouriel Roubini) – Riesgos sistémicos, deuda e inflación.
+- @charliebilello – Datos históricos y contexto de mercado.
+
+Estas cuentas cubren desde datos en tiempo real hasta perspectivas macro y geopolíticas sin exceso de ruido.
