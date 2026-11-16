@@ -69,3 +69,42 @@ Solo cuentas de X para análisis de mercado, oportunidades, estrategias, macro y
 - @charliebilello – Datos históricos y contexto de mercado.
 
 Estas cuentas cubren desde datos en tiempo real hasta perspectivas macro y geopolíticas sin exceso de ruido.
+
+---
+
+## Lunes, 16 de noviembre de 2026 – 14:33 (horario de Buenos Aires)
+
+**Pulso del mercado americano (sesión en curso del lunes 16 de noviembre de 2026 – datos aproximados a las 12:00-12:30 PM ET)**
+
+**Índices principales (sesión regular en curso):**
+- **Dow Jones Industrial Average**: ~51.900 - 51.990 (-0,7% a -0,86%)
+- **S&P 500**: ~7.455 - 7.477 (-1,1% a -1,4%)
+- **Nasdaq Composite**: ~24.630 - 24.746 (-1,55% a -2,0%)
+- **Russell 2000**: ~2.757 - 2.760 (-1,08% a -1,14%)
+
+El VIX se sitúa alrededor de 21,08-21,20 (+9% aproximadamente). El yield del Treasury a 10 años ronda el 5,14%.<grok type="render_inline_citation" citation_id="0" />
+
+**Principales movers y sectores destacados:**
+El sector Technology lidera las caídas (~-2,0% a -2,7%), seguido de Energy, Industrials y Communication Services. Consumer Staples (+0,25%) y Health Care (+0,11%) son los únicos en positivo o cerca del plano. Declining issues superan ampliamente a advancing (alrededor de 2:1 o más en S&P 500).<grok type="render_inline_citation" citation_id="0" />
+
+**Ganadores destacados**: Tyson Foods (TSN) +6,8% a +7,7%, Centene (CNC) +5%, Tractor Supply (TSCO) +4-5%, Elevance Health (ELV) y Adobe (ADBE) también al alza.
+**Perdedores destacados**: Lumentum (LITE) ~-7 a -8%, Bloom Energy (BE), Sandisk (SNDK), Intel (INTC) ~-6%, Coinbase (COIN), Micron (MU) y otros semis. Nvidia (NVDA) baja ~2-3,5%, arrastrando al sector AI/chips. Alphabet y Amazon también pierden capitalización significativa.<grok type="render_inline_citation" citation_id="0" />
+
+**Drivers macroeconómicos y geopolíticos del día y su impacto:**
+El principal driver es la continuación del fallout del escándalo de Nvidia (export controls y liderazgo post-renuncia de Jensen Huang). Comentarios del presidente Trump defendiendo al secretario Lutnick y sugiriendo que no le importaría el regreso de Huang añaden volatilidad, pero no detienen la presión en tech. La semana es pivote para el trade de IA: earnings de Nvidia el martes (primera post-cambio de liderazgo) y la IPO de Anthropic (potencialmente la más grande de la historia, valuación ~1,4T, trading el jueves), que podría drenar flujos de otros nombres AI.<grok type="render_inline_citation" citation_id="4" />
+
+Macro: Inflación sticky y expectativas de hike de la Fed en diciembre mantienen yields elevados (~5,14%), comprimiendo múltiplos de crecimiento. El dólar fuerte y VIX por encima de 20 reflejan aversión al riesgo. Geopolítica: Conflicto en Irán y tensiones en el Estrecho de Ormuz mantienen premio en petróleo (aunque el crudo cede levemente hoy), con riesgo inflacionario residual. El impacto neto es rotación fuera de high-beta tech/AI hacia defensivos (staples, health care), con breadth negativa y mayor volatilidad. Los inversores esperan claridad en earnings y IPO para calibrar el apetito por AI.<grok type="render_inline_citation" citation_id="25" />
+
+**Recomendaciones de cuentas de X (Twitter) útiles:**
+Solo cuentas de X para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
+- @LizAnnSonders – Charts, breadth, datos de mercado y macro clara y data-driven.
+- @elerianm (Mohamed El-Erian) – Política monetaria, inflación, geopolítica y perspectivas globales.
+- @KobeissiLetter – Headlines en tiempo real de mercados, datos económicos y riesgos.
+- @DeItaone – Noticias ultra-rápidas que impactan precios.
+- @MacroAlf – Frameworks macro, ciclos de crédito y análisis cross-asset accionable.
+- @ritholtz (Barry Ritholtz) – Análisis equilibrado, histórico y de psicología de mercado.
+- @Nouriel (Nouriel Roubini) – Riesgos sistémicos, deuda, inflación y geopolítica.
+- @charliebilello – Datos históricos y contexto de mercados.
+- @ianbremmer – Riesgo político y geopolítica global.
+
+Estas cuentas proporcionan desde flujos de noticias en tiempo real hasta análisis macro profundo y perspectivas geopolíticas, ideales para navegar la volatilidad actual sin ruido excesivo.
