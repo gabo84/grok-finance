@@ -151,3 +151,42 @@ Solo cuentas de X para análisis de mercado, oportunidades, estrategias, macro y
 - @ianbremmer – Riesgo político y geopolítica global.
 
 Estas cuentas cubren desde flujos de noticias en tiempo real hasta perspectivas macro profundas, ideales para seguir el pulso sin ruido excesivo.
+
+---
+
+## Martes, 17 de noviembre de 2026 – 14:35 (horario de Buenos Aires)
+
+**Pulso del mercado americano (sesión en curso del martes 17 de noviembre de 2026 – datos aproximados a las 12:30-12:40 PM ET)**
+
+**Índices principales (sesión regular en curso):**<grok type="render_inline_citation" citation_id="52" />
+- **Dow Jones Industrial Average**: 50.926,52 (-1,32% / -681,65 puntos)
+- **S&P 500**: 7.348,47 (-0,92% / -68,12 puntos)
+- **Nasdaq Composite**: 24.305,13 (-0,83% / -204,63 puntos)
+- **Russell 2000**: ~2.720 (-0,85% a -1,0% aprox.)
+
+El VIX ronda los 25 (+10-11%), indicando incertidumbre elevada. El yield del Treasury a 10 años se sitúa cerca del 5,10% (leve baja). Breadth negativa, con más decliners que advancers.<grok type="render_inline_citation" citation_id="0" />
+
+**Principales movers y sectores destacados:**
+Technology lidera las caídas (~-1,7% a -1,85%), con software bajo fuerte presión. Materials es el único sector en positivo o cerca (+0,16%). Communication Services, Financials y Health Care también rezagados. El selloff en software incluye Salesforce (CRM) ~-8-9%, Intuit (INTU) ~-6-7%, ServiceNow y otros. Nvidia (NVDA) baja ~1-1,5%, a la espera de earnings.<grok type="render_inline_citation" citation_id="33" />
+
+**Ganadores destacados**: SELLAS Life Sciences (SLS) +170%+ tras resultados positivos de ensayo de vacuna contra el cáncer; algunos nombres de optical/data center (Coherent) y Reddit (RDDT) al alza. 
+**Perdedores destacados**: Salesforce, Intuit, ServiceNow y otros software; Abacus Global Management y varios biotech/small caps. NVDA entre las más activas.<grok type="render_inline_citation" citation_id="27" />
+
+**Drivers macroeconómicos y geopolíticos del día y su impacto:**
+El principal catalizador es la espera de los earnings de Nvidia después del cierre (primera reporting bajo la CEO interina Colette Kress, post-renuncia de Jensen Huang por escándalo). Esto mantiene presión en el trade de IA y semiconductores. El presidente de la Fed de St. Louis, Alberto Musalem, señaló la posibilidad de más subas de tasas "sooner", reforzando expectativas de hike en diciembre y comprimiendo múltiplos de crecimiento. Retail sales de octubre +0,2% (por encima de estimaciones leves), pero no alteran el sesgo hawkish. Un reporte sobre outage de red de la NSA añadió jitter sobre infraestructura tech.<grok type="render_inline_citation" citation_id="4" />
+
+Geopolítica: Tensiones continuas en Irán y Estrecho de Ormuz mantienen premio de riesgo en petróleo (crudo ~$86) y riesgo inflacionario residual. La próxima IPO de Anthropic (jueves) añade catalizador de alto impacto para el sector AI. El impacto neto es aversión al riesgo en high-beta tech/software, con rotación relativa y VIX al alza, mientras se espera claridad post-earnings de NVDA. Yields altos y geopolítica limitan rebotes.<grok type="render_inline_citation" citation_id="15" />
+
+**Recomendaciones de cuentas de X (Twitter) útiles:**
+Solo cuentas de X para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
+- @LizAnnSonders – Charts diarios, breadth, datos de mercado y macro clara y data-driven.
+- @elerianm (Mohamed El-Erian) – Política monetaria, inflación, geopolítica y perspectivas globales.
+- @KobeissiLetter – Headlines en tiempo real de mercados, datos económicos y riesgos.
+- @DeItaone – Noticias ultra-rápidas que mueven precios.
+- @MacroAlf – Frameworks macro, ciclos de crédito y análisis cross-asset accionable.
+- @ritholtz (Barry Ritholtz) – Análisis equilibrado, histórico y de psicología de mercado.
+- @Nouriel (Nouriel Roubini) – Riesgos sistémicos, deuda, inflación y geopolítica.
+- @charliebilello – Datos históricos y contexto de mercados.
+- @ianbremmer – Riesgo político y geopolítica global.
+
+Estas cuentas cubren desde flujos de noticias en tiempo real hasta perspectivas macro profundas y geopolíticas, ideales para seguir el pulso diario sin ruido excesivo.
