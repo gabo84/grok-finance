@@ -108,3 +108,46 @@ Solo cuentas de X para análisis de mercado, oportunidades, estrategias, macro y
 - @ianbremmer – Riesgo político y geopolítica global.
 
 Estas cuentas proporcionan desde flujos de noticias en tiempo real hasta análisis macro profundo y perspectivas geopolíticas, ideales para navegar la volatilidad actual sin ruido excesivo.
+
+---
+
+## Martes, 17 de noviembre de 2026 – 11:06 (horario de Buenos Aires)
+
+**Pulso del mercado americano (preapertura del martes 17 de noviembre de 2026 – mercados aún no abiertos o en apertura temprana; datos basados en cierre del lunes 16 y futuros)**
+
+**Índices principales (cierre del lunes 16 de noviembre de 2026):**<grok type="render_inline_citation" citation_id="7" />
+- **Dow Jones Industrial Average**: 51.608,17 (-1,41% / -739,38 puntos)
+- **S&P 500**: 7.416,59 (-1,92% / -145,08 puntos)
+- **Nasdaq Composite**: 24.509,76 (-2,49% / -626,52 puntos)
+- **Russell 2000**: 2.742,94 (-1,70% / -47,55 puntos)
+
+El VIX cerró cerca de 22,9-23,2 (+18% aprox.), por encima del nivel 20 que indica incertidumbre elevada. El yield del Treasury a 10 años rondó el 5,14%.<grok type="render_inline_citation" citation_id="8" />
+
+En premarket (alrededor de las 8:30-9:00 ET), los futuros están mixtos: S&P 500 futures cerca del plano o levemente a la baja (-0,1%), Nasdaq 100 futures al alza (~+0,2% a +0,5%), Dow futures más débiles (~-0,6% a -0,8%).<grok type="render_inline_citation" citation_id="32" />
+
+**Principales movers y sectores destacados:**
+El lunes, Technology lideró las pérdidas (alrededor de -3%), arrastrado por semiconductores y AI. Consumer Staples (+0,27% a +0,35%) y Utilities fueron los únicos sectores en positivo o cerca del plano. Communication Services y Energy también sufrieron.<grok type="render_inline_citation" citation_id="15" />
+
+**Ganadores del lunes**: Tyson Foods (TSN) +8,7%, Centene (CNC) +4,9%, Tractor Supply (TSCO) +4,1%, Elevance Health (ELV) y otros en health care/staples.
+**Perdedores del lunes**: SanDisk (SNDK) -8,6%, Lumentum (LITE) -8,5%, Ciena (CIEN) -8,2%, Bloom Energy, Micron (MU), Intel (INTC). Nvidia (NVDA) fue la más activa, con caída ~4,1% y volumen de 330M de acciones.<grok type="render_inline_citation" citation_id="11" />
+
+En premarket del martes, varios chipmakers rebotan: Coherent (COHR) +8-9%, Lumentum, Marvell, Ciena y el ETF de semis (SOXX) al alza, con NVDA estabilizándose o levemente positivo tras las caídas recientes.<grok type="render_inline_citation" citation_id="33" />
+
+**Drivers macroeconómicos y geopolíticos del día y su impacto:**
+El principal catalizador es la continuación del selloff en AI/tech tras la renuncia de Jensen Huang como CEO de Nvidia (con preocupaciones de liderazgo, retención y ejecución), sumado a earnings de Nvidia hoy después del cierre (primera reporting post-cambio) y la IPO de Anthropic esta semana (potencialmente una de las más grandes, con valuación elevada). Esto mantiene presión en múltiplos de crecimiento y rotación hacia defensivos.<grok type="render_inline_citation" citation_id="1" />
+
+Macro: Yields elevados (~5,14%) reflejan expectativas de hike de la Fed en diciembre e inflación sticky (datos recientes por encima de forecasts), comprimiendo valoraciones. VIX elevado indica aversión al riesgo. Geopolítica: El conflicto en Irán y tensiones en el Estrecho de Ormuz mantienen premio en petróleo y riesgo inflacionario residual, aunque el crudo ha fluctuado. Los midterms demócratas añaden incertidumbre regulatoria sobre AI y Big Tech. El impacto neto es volatilidad alta en tech de alto beta, con posibles rebotes selectivos si earnings de NVDA sorprenden positivamente, pero con sesgo cauteloso hasta claridad.<grok type="render_inline_citation" citation_id="21" />
+
+**Recomendaciones de cuentas de X (Twitter) útiles:**
+Solo cuentas de X para análisis de mercado, oportunidades, estrategias, macro y geopolítica:
+- @LizAnnSonders – Charts diarios, breadth, datos y macro clara y data-driven.
+- @elerianm (Mohamed El-Erian) – Política monetaria, inflación, geopolítica y mercados globales.
+- @KobeissiLetter – Headlines en tiempo real de mercados, datos y riesgos.
+- @DeItaone – Noticias ultra-rápidas que mueven precios.
+- @MacroAlf – Frameworks macro, ciclos de crédito y análisis cross-asset.
+- @ritholtz (Barry Ritholtz) – Análisis equilibrado, histórico y de psicología de mercado.
+- @Nouriel (Nouriel Roubini) – Riesgos sistémicos, deuda, inflación y geopolítica.
+- @charliebilello – Datos históricos y contexto de mercados.
+- @ianbremmer – Riesgo político y geopolítica global.
+
+Estas cuentas cubren desde flujos de noticias en tiempo real hasta perspectivas macro profundas, ideales para seguir el pulso sin ruido excesivo.
